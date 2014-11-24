@@ -1,0 +1,13 @@
+1. Open generate-xinclude.py and edit the path variables according to your file structure, by default idp.data and idp.optimization should be checked out at the same level.
+
+2. Run generate-xinclude.py. This will create an xinclude file with all the texts in idp.data.
+
+3. Apply the list-unique-orig.xsl to the xinclude.xml file.
+
+4. Save the results of the transformation as origs.txt.
+
+5. Run the script origs-to-betacode.sh. It will create the file origs-betacode.txt.
+
+6. Run remove-orig-betacode-accents.py to remove the accented words. It will output to the file origs-betacode-no-accents.txt.
+
+7. Email origs-betacode-no-accents.txt to GB.

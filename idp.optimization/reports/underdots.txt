@@ -1,0 +1,2287 @@
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.12\bgu.12.2209.xml
+Location: 80:88
+Description: ..."37"/><note lang="en">m4?</note> <g type="chirho"/> <unclear>δι</unclear>᾽ ε᾿̣<unclear>μ</unclear>οῦ <hi rend="diaeresis">Ἰ</hi>ωάν<unclear>ν</unclear>ου...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.14\bgu.14.2377dupl.xml
+Location: 34:77
+Description: <lb n="14"/><gap extent="unknown" reason="lost" unit="character"/> γραφέ̣ντων ὑφ᾽ ἡμῶν
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.15\bgu.15.2467.xml
+Location: 8:85
+Description: ...n="2a"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>  <space extent="unknown" unit="character"/>   <gap extent="2" r...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.15\bgu.15.2467.xml
+Location: 42:86
+Description: ...n="14a"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>  <space extent="unknown" unit="character"/>  δε<unclear>δήλ</un...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.15\bgu.15.2473.xml
+Location: 23:3
+Description: ξ ̣  ἔγραψα. <expan><ex>ἔτους</ex></expan> </supplied><gap extent="unknown" rea...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.15\bgu.15.2523.xml
+Location: 25:420
+Description: ...ost">ρο<ex>σδιαγραφομένων</ex></supplied></expan> <expan><ex cert="low">ὀβολὸ̣ν 1</ex></expan><num value="1"/> <expan><ex>χαλκοῦς 2</ex></expan><num value...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2565.xml
+Location: 31:81
+Description: ...<lb n="10"/><supplied reason="lost">καθηκούσα</supplied><unclear>ς</unclear>̣ <unclear>χειρογραφ</unclear><supplied reason="lost">ίας. <expan><ex>ἔτους</...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2576.xml
+Location: 15:97
+Description: <lb n="5"/><gap extent="unknown" reason="lost" unit="character"/>δάν<supplied reason="lost">̣ει</supplied>α τοῦ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2577.xml
+Location: 201:58
+Description: <lb n="93"/>Χῶρος <expan>Παρμενίω<ex>νος</ex></expan>̣ <num value="4">δ</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2577.xml
+Location: 1162:65
+Description: <lb n="20"/>Πετοσῖρις <abbr>λα<unclear>χανη</unclear></abbr>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2589.xml
+Location: 30:81
+Description: ...pan><ex>ἔτους</ex></expan> <num value="2">β</num> Καίσαρ<unclear>ος</unclear>̣ Μεσορ<add place="supralinear">ὴ</add> <num value="12">ιβ</num></ab></div></...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2601.xml
+Location: 12:158
+Description: ...="2" reason="illegible" unit="character"/> Ἡρακλεοπολείτ<unclear>ηι</unclear>̣ <unclear>τ</unclear>ῶι
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2609.xml
+Location: 13:54
+Description: <lb n="4"/>δημοσίων ἐν αἷς <unclear>ὑ</unclear>π̣̓ <unclear>οὐ</unclear>δ<unclear>ενὸ</unclear>ς περι-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2621.xml
+Location: 17:131
+Description: <lb n="5"/>καὶ αὐτοὺς απ<gap extent="1" reason="illegible" unit="character"/><gap extent="10" reason="lost" unit="character"/>̣έσταλκα δὲ εἰ κατ᾽
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2629.xml
+Location: 65:168
+Description: ...gap extent="2" reason="lost" unit="character"/> τὰς ἔξω<unclear>θεν</unclear>̣ <unclear>π</unclear>ε<supplied reason="lost">μφ</supplied>θείσας σοι ἐπιστο...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.16\bgu.16.2630.xml
+Location: 10:194
+Description: ...ύ<unclear>λ</unclear><supplied reason="lost">ω</supplied><unclear>ι</unclear>̣ δραχ<unclear>μ</unclear>ὰς
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.18.1\bgu.18.1.2739.xml
+Location: 22:98
+Description: ...lied reason="lost">φυλακιτῶν κεκληρουχημένων</supplied> <unclear>τ</unclear>ῶ̣<unclear>ν</unclear> <supplied reason="lost">μάλιστα πίστιν ἐχόντων </suppli...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.18.1\bgu.18.1.2740.xml
+Location: 6:29
+Description: <lb n="1"/><g type="x"/>̣ <supplied reason="lost"><expan>ἀντίγρ<ex>αφον</ex></expan> <expan><ex>ἔτους...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.2\bgu.2.387.xml
+Location: 19:189
+Description: ...BL"><lem resp="1.43">τῶν</lem><rdg/></app></supplied> <num value="5">ε</num> ̣ πρεσβυτέ-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.2\bgu.2.638.xml
+Location: 7:67
+Description: <lb n="13"/><gap extent="13" reason="lost" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.2\bgu.2.668.xml
+Location: 19:131
+Description: <lb n="6"/><expan>ἐπερωτ<ex>ηθέντες</ex></expan> <expan>ὡμολογ<ex>ήσαμεν</ex></expan> <handShift new="m2"/> <g type="chirho"/>̣ Αὐρήλιοι
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.3\bgu.3.930A.xml
+Location: 8:166
+Description: ...illegible" unit="character"/> <num value="1/4">δ</num> <num type="fraction"/>̣ <gap extent="4" reason="illegible" unit="character"/><gap extent="1" reason...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.4\bgu.4.1120.xml
+Location: 92:193
+Description: ...pplied reason="lost">ἢ ἀ</supplied>κύρους εἶναι ἐξουσίας οὔσης τῷ Διοδώρῳ, ε᾿̣<unclear>ὰν</unclear> <unclear>ἔν</unclear> <unclear>τινι</unclear> παρα-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.4\bgu.4.1141.xml
+Location: 41:39
+Description: <lb n="18"/><del rend="erasure">ε᾿̣<unclear>μὸν</unclear></del> ἀφ᾽ ὡς σοὶ ἐφιλίασα, οὐ κατέλιψα τόπον. ἓν <num value="1"/> δέ μοι ἐνκαλέσεις,
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.4\bgu.4.1171.xml
+Location: 6:143
+Description: <lb n="1"/><expan><unclear>κόλ</unclear><ex>λημα</ex></expan> <gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.4\bgu.4.1172.xml
+Location: 42:93
+Description: <lb n="19"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.6\bgu.6.1216.xml
+Location: 345:170
+Description: ...n><unclear>με</unclear><ex>γίστων</ex></expan> <expan><unclear>Ὀσε</unclear>ί̣<unclear>ριο</unclear><ex>ς</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.7\bgu.7.1578.xml
+Location: 8:354
+Description: ...ρ</abbr> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.7\bgu.7.1630.xml
+Location: 116:195
+Description: ...<num value="360">τξ</num> <num value="3600000  1/2 "/> <num type="fraction"/>̣ <g type="check"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.7\bgu.7.1636.xml
+Location: 46:499
+Description: ...xpan>κρι<ex>θῆς</ex></expan> <num value="160">ρξ</num> <num type="fraction"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.7\bgu.7.1674.xml
+Location: 38:127
+Description: ..."unknown" reason="lost" unit="character"/> ἀπὸ <g type="short-vertical-bar"/>̣ Ἡρ<unclear>ώι</unclear>ου <hi rend="diaeresis">ἰ</hi>ατροῦ. </ab></div></di...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.8\bgu.8.1758.xml
+Location: 10:105
+Description: ...ason="lost">ἀντίγραφον ὑπόκειται. <space extent="unknown" unit="character"/> ̣ </supplied><gap extent="unknown" reason="lost" unit="character"/><gap exten...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.8\bgu.8.1847.xml
+Location: 40:70
+Description: <lb n="22"/><unclear>μὴ</unclear> ἐσχηκέναι ἡμᾶς τὸν ὑπὲρ ἡμῶν ε᾿̣<unclear>π</unclear>-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.9\bgu.9.1893.xml
+Location: 352:372
+Description: ...pan> <num value="50">ν</num> <num value="1/2">𐅵</num> <num type="fraction"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.9\bgu.9.1895.xml
+Location: 24:452
+Description: ...<gap extent="1" reason="illegible" unit="character"/> <num type="fraction"/>̣ <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.9\bgu.9.1897a.xml
+Location: 65:156
+Description: <lb n="29"/><unclear>Π</unclear><gap extent="2" reason="lost" unit="character"/><abbr><gap extent="1" reason="illegible" unit="character"/>ηστ</abbr> —̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\bgu\bgu.9\bgu.9.1898.xml
+Location: 675:95
+Description: <lb n="292"/><del rend="erasure"> <gap extent="1" reason="illegible" unit="line"/> </del> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\c.pap.gr\c.pap.gr.1\c.pap.gr.1.22.xml
+Location: 39:392
+Description: ...n="lost">αρὰ τ</supplied>οῦ Λου<unclear>κίου</unclear> <unclear>δι</unclear>ὰ̣ χειρ<supplied reason="lost">ὸς</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\c.pap.gr\c.pap.gr.2.1\c.pap.gr.2.1.76.xml
+Location: 13:244
+Description: ...</subst> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ ἐπεὶ</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\chla\chla.3\chla.3.209.xml
+Location: 7:73
+Description: <lb n="1"/><foreign lang="grc"><supplied reason="lost"> γαπ εχτεντ̂"̣"&gt; </supplied><gap extent="1" reason="illegible" unit="character"/><gap e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\chla\chla.41\chla.41.1196.xml
+Location: 35:377
+Description: ...supplied reason="lost">ληνοτά</supplied>το<supplied reason="lost">υ βασιλέως ̣ </supplied><gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\chla\chla.41\chla.41.1201.xml
+Location: 15:267
+Description: ...t">λερίου</supplied> Μαξ<supplied reason="lost">ιμιανοῦ πρεσβυτέρου Σεβαστοῦ ̣ καὶ Γαλερίου</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\chr.wilck\chr.wilck.209.xml
+Location: 61:82
+Description: ...<lb n="27"/><app type="BL"><lem resp="cf. 8.433-4">[Ἡρακλέα ἐξ ὑγιοῦς καὶ ἐπ᾽̣ ἀληθείας <expan>ἐ]πιδεδωκ<ex>έναι</ex></expan></lem><rdg>[ἦ μὴν ἀληθῆ εἶναι...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.10\cpr.10.126.xml
+Location: 22:35
+Description: <lb n="8"/><g type="stauros"/>̣ <expan><unclear>χ</unclear><ex>ει</ex><unclear>ρ</unclear><ex>όγραφον</ex><...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.10\cpr.10.130.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ <supplied reason="lost">ἐν ὀνόμα</supplied><unclear>τ</unclear><supplied re...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.13\cpr.13.12.xml
+Location: 64:60
+Description: <lb n="28"/><space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.13\cpr.13.19.xml
+Location: 40:61
+Description: <lb n="17"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.14\cpr.14.28.xml
+Location: 12:206
+Description: ...num> <num value="1/2">𐅵</num> <num value="1/12">ιβ</num> <g type="stauros"/>̣ <expan><supplied reason="lost">Μα</supplied>κ<supplied reason="lost">ά</sup...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.15\cpr.15.8rptrpl.xml
+Location: 52:23
+Description: <lb n="23"/>Ὥρου ὅ̣πως εἰδῆ<supplied reason="lost">ι ἀ</supplied>κολ<unclear>ο</unclear>ύθως
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.17A\cpr.17A.1.xml
+Location: 14:201
+Description: ...unclear>όλε<unclear>ω</unclear>[ς <space extent="unknown" unit="character"/> ̣ ] χαίρειν.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.10.xml
+Location: 6:34
+Description: <lb n="1"/><g type="chirho"/>̣ <unclear>σ</unclear>ὺν <expan>θ<ex>εῷ</ex></expan> Νεγιδ <expan>υἱὸ<ex>ς</e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.16.xml
+Location: 11:264
+Description: ...xpan>. ὁ <expan>αὐ<unclear>τ</unclear><ex>ός</ex></expan> <g type="stauros"/>̣ <expan>ἄλλ<ex>ο</ex></expan>· <expan>Φ<ex>α</ex>ῶ<ex>φι</ex></expan> <num v...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.16.xml
+Location: 13:614
+Description: ...unclear>τ<ex>ός</ex></expan> <g type="stauros"/> <expan>ἄ<unclear>λ</unclear>̣λ<ex>ο</ex></expan>· <expan>Μ<ex>ε</ex>χ<ex>ειρ</ex></expan> <num value="6">...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.2.xml
+Location: 9:34
+Description: <lb n="2"/><g type="chirho"/>̣ τὸ εὐαγὲς <choice><corr>νοσοκομεῖον</corr><sic>νοσοκομιον</sic></choice> Λεοντίῳ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.2.xml
+Location: 30:57
+Description: <lb n="12"/><handShift new="m2"/><g type="stauros"/>̣ <expan><unclear>ὁμ</unclear>ολογί<ex>α</ex></expan> τοῦ <expan>νοσοκ<ex>ομε...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.31.xml
+Location: 27:266
+Description: .../> <expan>γ<unclear>ί</unclear><ex>νεται</ex></expan> <g type="mid punctus"/>̣ <g type="mid punctus"/> <gap extent="unknown" reason="lost" unit="character...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.31.xml
+Location: 31:119
+Description: ...son="lost" unit="character"/> <g type="mid punctus"/> <g type="mid punctus"/>̣ <g type="mid punctus"/> <g type="mid punctus"/>̣ <expan>γί<ex>νεται</ex></e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.31.xml
+Location: 31:168
+Description: ...s"/> <g type="mid punctus"/>̣ <g type="mid punctus"/> <g type="mid punctus"/>̣ <expan>γί<ex>νεται</ex></expan> <g type="mid punctus"/> <gap extent="unknow...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.44.xml
+Location: 18:130
+Description: ...roke"/> <expan>τῦ<ex>βι</ex></expan> <num value="5">ε</num> <g type="check"/>̣ <expan><unclear>λ</unclear><ex>ό</ex><unclear>γ</unclear><ex>ῳ</ex></expan>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.44.xml
+Location: 24:33
+Description: <lb n="9"/><g type="check"/>̣<g type="slanting-stroke"/> <expan>φαμ<ex>ενὼ</ex></expan>θ <num value="5">ε...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.46.xml
+Location: 15:140
+Description: ...cter"/><abbr>ρε</abbr> <g type="slanting-stroke"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/><g type="slanting-stroke"/> <num value="1">α</nu...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.46.xml
+Location: 19:125
+Description: <lb n="7"/><gap extent="unknown" reason="lost" unit="character"/> <g type="slanting-stroke"/><g type="slanting-stroke"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.50.xml
+Location: 10:60
+Description: <lb n="3"/>ἀφ᾽ <expan>ὧ<ex>ν</ex></expan> <expan>ο<ex>ὕ̣<unclear>τως</unclear></ex></expan> <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.9.xml
+Location: 6:34
+Description: <lb n="1"/><g type="chirho"/>̣ σὺν <expan>θ<ex>εῷ</ex></expan> Νεγιδ <expan>υἱὸ<ex>ς</ex></expan> Μο<suppl...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.22\cpr.22.9.xml
+Location: 12:281
+Description: ..."lost"><num value="1/48">μη</num></supplied> <expan>μ<ex>ηνὸς</ex></expan> Ε᾿̣<supplied reason="lost">π</supplied><unclear>εὶφ</unclear> <num value="10"><...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.23\cpr.23.32.xml
+Location: 24:89
+Description: ...10"/>ἡγεμὼν κύρι<unclear>ε</unclear>. <handShift new="m2"/><g type="chirho"/>̣ ἐ<unclear>ρρῶ</unclear>σθαί σ<unclear>ε</unclear> <supplied reason="lost">ε...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.24\cpr.24.10.xml
+Location: 33:36
+Description: <lb n="13"/><g type="stauros"/>̣ <expan><supplied reason="lost">Μίσ</supplied><unclear>θ</unclear><supplied...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.24\cpr.24.13.xml
+Location: 20:35
+Description: <lb n="6"/><g type="stauros"/>̣ <gap extent="unknown" reason="lost" unit="character"/></ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.24\cpr.24.20.xml
+Location: 25:35
+Description: <lb n="9"/><g type="stauros"/>̣ <expan><unclear>Μισ</unclear>θ<ex>ωσις</ex></expan> <expan><ex>ἀρουρῶν</ex>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.24\cpr.24.23.xml
+Location: 6:90
+Description: <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/> <g type="stauros"/>̣ <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.5\cpr.5.18.xml
+Location: 51:113
+Description: .../> <g type="chirho"/> Θεόδωρος <expan>λαμπρ<ex>ότατος</ex></expan> ποιήσας τὴ̣ν ἀπόδει<supplied reason="lost">ξιν </supplied><gap extent="10" reason="lost...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.5\cpr.5.20.xml
+Location: 56:438
+Description: ...acter"/> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣</supplied> <expan><unclear>π</unclear><ex>αρὰ</ex></expan> <choice><corr>Χα...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.6\cpr.6.1.xml
+Location: 51:284
+Description: ...e="30"/> οὐλὴ ὀφρύι ἀριστ<unclear>ε</unclear>ρᾷ, Μυσθαρίων Ζωίλου ὡς ἐτῶν ἑξή̣κοντα ἐννέα <num value="69"/> ἄσ<supplied reason="lost">η</supplied>μος, <su...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.6\cpr.6.78.xml
+Location: 21:225
+Description: ...i>ν᾽ εἰδ<supplied reason="lost">ῇ <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.7\cpr.7.34.xml
+Location: 30:169
+Description: ...n="illegible" unit="character"/>ι <space extent="unknown" unit="character"/> ̣  <gap extent="unknown" reason="lost" unit="character"/><unclear>α</unclear>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.7\cpr.7.40.xml
+Location: 56:245
+Description: ...clear><supplied reason="lost">τος <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.9\cpr.9.15.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ <unclear>Θ</unclear>εο<unclear>δ</unclear>ώρῳ <expan>μάγκιπ<ex>ι</ex></expan>.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.9\cpr.9.30.xml
+Location: 33:210
+Description: ...plied reason="lost">σα</supplied>. <handShift new="m2"/> <g type="stauros"/> ̣ <supplied reason="lost">Α</supplied><unclear>ὐ</unclear><supplied reason="l...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.9\cpr.9.34.xml
+Location: 16:204
+Description: ...</unclear><ex>τίονος</ex></expan>. <handShift new="m2"/> <g type="stauros"/> ̣ <unclear>Ἰ</unclear>ωάννης <choice><corr>Φοιβ<supplied reason="lost">ά</sup...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.9\cpr.9.6.xml
+Location: 19:307
+Description: ...ῶ τῇ μισθώσει ἀκούσας παρὰ τοῦ θεμ<unclear>ένου</unclear> <g type="stauros"/>̣.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.9\cpr.9.67.xml
+Location: 17:33
+Description: <lb n="5"/><g type="check"/>̣ <abbr>Μων<unclear>υασ</unclear>χον<unclear>ο</unclear>σε</abbr>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\cpr\cpr.9\cpr.9.76.xml
+Location: 126:35
+Description: <lb n="1"/><g type="stauros"/>̣ [<expan>δο<ex>θέντα</ex></expan> <unclear>Χοιὰκ</unclear>]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.ashm.shelt\o.ashm.shelt.170.xml
+Location: 20:104
+Description: <lb n="8"/><supplied reason="lost">ἕως <num value="5">ε</num>. Κυρα</supplied><unclear>κ</unclear>ό̣<unclear>ς</unclear>. </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.bodl\o.bodl.2\o.bodl.2.1222.xml
+Location: 11:127
+Description: ...>ώνσιος</ex></expan> <unclear>δ</unclear>ιὰ <expan><unclear>Μελλαν</unclear>ί̣ω<ex>νος</ex></expan> <expan>Ψενχώ<ex>νσιος</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.bodl\o.bodl.2\o.bodl.2.1238.xml
+Location: 18:94
+Description: <lb n="1" rend="inverse"/> <gap desc="Demotic" extent="1" reason="ellipsis" unit="line"/>̣ </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.claud\o.claud.1\o.claud.1.118.xml
+Location: 6:54
+Description: <lb n="1"/>Ἁθὺρ <expan>ἀσθεν<unclear>ο</unclear>ῦ̣<unclear>ντ</unclear><ex>ες</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.claud\o.claud.3\o.claud.3.553.xml
+Location: 14:155
+Description: ...reason="lost">ν</supplied></rdg></app> <supplied reason="lost"> γαπ εχτεντ̂"̣"&gt; </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.florida\o.florida.9.xml
+Location: 8:135
+Description: <lb n="2"/><space extent="unknown" unit="character"/> χαίρει<supplied reason="lost">ν· <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.heid\o.heid.130.xml
+Location: 9:168
+Description: ...r"/><unclear>η</unclear></abbr> <num value="30"><unclear>λ</unclear></num> Γ̣̓<gap extent="1" reason="illegible" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.heid\o.heid.162.xml
+Location: 9:109
+Description: <expan><ex>δραχμὰς</ex></expan> <num value="8">η</num>. <expan><ex>ἔτους</ex></expan> <num value="9">θ</num>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.heid\o.heid.184.xml
+Location: 8:242
+Description: ...<expan>ὑπ<ex>ὲρ</ex></expan> <expan>λαο<ex>γραφίας</ex></expan> <expan><ex>"̣"</ex></expan> </supplied><gap extent="1" reason="lost" unit="character"/><s...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.heid\o.heid.53.xml
+Location: 8:209
+Description: ..."1" reason="lost" unit="character"/><supplied reason="lost"> ὑπὲρ <expan><ex>̣</ex></expan></supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.heid\o.heid.69.xml
+Location: 8:60
+Description: <expan><unclear>γ</unclear>[ε<ex>νήματος</ex></expan> <num>̣</num> <expan><ex>ἔτους</ex></expan>]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.leid\o.leid.130.xml
+Location: 15:133
+Description: <lb n="5"/><expan>ἄλ<ex>λας</ex></expan> Θὼθ <num value="28">κη</num> <expan>ὀνό<ex>ματος</ex></expan> Σεν<unclear>μο</unclear>ύ̣<unclear>θου</unclear>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.leid\o.leid.15.xml
+Location: 15:46
+Description: <lb n="5"/><note lang="en">demotic</note>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.leid\o.leid.387.xml
+Location: 14:264
+Description: ...> <num value="2">β</num> <num value="1/2">𐅵</num> <g type="unintelligible"/>̣. <expan><ex>ἔτους</ex></expan> <num value="13">ιγ</num> Τραιανοῦ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.191.xml
+Location: 12:122
+Description: ...<num value="13"><unclear>ιγ</unclear></num> <orig><g type="s-etous"/></orig>̣ καὶ <num value="1">α</num> <orig><g type="s-etous"/></orig> Μεσορὴ <num val...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.291.xml
+Location: 6:65
+Description: <lb n="1"/><gap extent="2" reason="lost" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.444.xml
+Location: 16:120
+Description: ...n> <num value="9"><unclear>θ</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>καὶ</unclear> <num value="8"><unclear>η</unclear></num> <orig><g t...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.444.xml
+Location: 16:219
+Description: ...r> <num value="8"><unclear>η</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>καὶ</unclear> <num value="1"><unclear>α</unclear></num> <orig><g t...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.444.xml
+Location: 16:318
+Description: ...r> <num value="1"><unclear>α</unclear></num> <orig><g type="s-etous"/></orig>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.467.xml
+Location: 16:225
+Description: ...s-etous"/></orig> καὶ <num value="7">ζ</num> <orig><g type="s-etous"/></orig>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.506.xml
+Location: 16:203
+Description: ...<num value="18"><unclear>ιη</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>καὶ</unclear> <num value="11"><unclear>ια</unclear></num> <orig><g...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.1\o.mich.1.506.xml
+Location: 16:304
+Description: ...<num value="11"><unclear>ια</unclear></num> <orig><g type="s-etous"/></orig>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.mich\o.mich.2\o.mich.2.912.xml
+Location: 14:236
+Description: ...g> <num value="7"><unclear>ζ</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>Φ</unclear>αῶ<unclear>φ</unclear><supplied reason="lost">ι </suppl...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.narm\o.narm.57.xml
+Location: 16:44
+Description: <lb n="6"/>ὁ τοῦ κ<hi rend="supraline">̣<gap extent="1" reason="illegible" unit="character"/></hi><expan>ρ<ex><gap e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.ont.mus\o.ont.mus.2\o.ont.mus.2.75.xml
+Location: 10:60
+Description: <lb n="3"/><expan>νε<ex>ωτέρου</ex></expan> καὶ Ψανσνο̣̂τος Πεσούρ<unclear>ιος</unclear> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> δέκα
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.ont.mus\o.ont.mus.2\o.ont.mus.2.90.xml
+Location: 6:129
+Description: ...expan>Ψεναμο<ex>ῦνις</ex></expan> <expan>Ἁρφμό<ex>ιτος</ex></expan> <expan>υ῾̣<unclear>π</unclear><ex>ὲρ</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.stras\o.stras.9.xml
+Location: 22:79
+Description: <lb n="9"/><gap desc="Demotic" extent="1" reason="ellipsis" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.theb\o.theb.126.xml
+Location: 16:79
+Description: <lb n="6"/><gap desc="Demotic" extent="1" reason="ellipsis" unit="line"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.waqfa\o.waqfa.23.xml
+Location: 6:127
+Description: <lb n="1"/><supplied reason="lost">ἔσχο</supplied>ν <expan>δ<ex>ιὰ</ex></expan> <space extent="unknown" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\o.waqfa\o.waqfa.30.xml
+Location: 10:232
+Description: ...> <gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.100.xml
+Location: 20:43
+Description: <lb n="7"/>Χρυσ<unclear>α</unclear>μω ̣            <expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.100.xml
+Location: 49:25
+Description: <lb n="16"/>Χρυσαμω ̣            <expan><ex>δραχμὰς</ex></expan> <num value="28">κη</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.147.xml
+Location: 8:79
+Description: <lb n="2"/><supplied reason="lost">Ἁδρ</supplied><unclear>ι</unclear>ανοῦ ̣ Σεβαστοῦ Πα<supplied reason="lost">ῦνι </supplied><gap extent="1" reason="l...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.149.xml
+Location: 8:81
+Description: ...<lb n="2"/>μετὰ τὰ προαριθμ<unclear>η</unclear><supplied reason="lost">μένα ̣ </supplied><gap extent="1" reason="lost" unit="character"/><supplied reason...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.149.xml
+Location: 10:71
+Description: <lb n="3"/>τίστου ἐπάρχου ὄρου<supplied reason="lost">ς Βερενίκης ̣ βενεφι</supplied>-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.15.xml
+Location: 7:104
+Description: ...="unknown" reason="lost" unit="character"/><supplied reason="lost"> διάταγμα ̣ ἄ</supplied>λλο πε<supplied reason="lost">ρ</supplied>ὶ τῶν ζω<unclear>γ</u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.151.xml
+Location: 8:41
+Description: <lb n="2"/><unclear>οἰκῶν</unclear> ̣ ἐν Κανωπι<unclear>ά</unclear><supplied reason="lost">δι </supplied><gap ext...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.152.xml
+Location: 18:133
+Description: ...="character"/><supplied reason="lost"> γεωρ</supplied><unclear>γ</unclear>ῶν ̣ δημοσίων καὶ <unclear>οὐ</unclear>σι<supplied reason="lost">ακῶν </supplied...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.152.xml
+Location: 24:174
+Description: ...</supplied>ν ἐπιστ<unclear>ο</unclear><supplied reason="lost">λὴ</supplied>ν ̣ τῶι τῆ<supplied cert="low" reason="lost">ς μερίδος </supplied><gap extent="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.153.xml
+Location: 10:67
+Description: <lb n="3"/>Λόγγου καὶ Μά<supplied reason="lost">ρκου Αὐρηλίου ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.154.xml
+Location: 15:228
+Description: ...></expan> τῶν <unclear>δ</unclear><supplied reason="lost">ιαγεγραμμένων ἡμῖν ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.157.xml
+Location: 8:283
+Description: ...lue="28">κ<supplied reason="lost">η</supplied></num><supplied reason="lost"> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.161.xml
+Location: 27:231
+Description: ...βαι</ex></expan> <num value="22"><supplied reason="lost">κ</supplied>β</num> ̣ <num value="1/2">𐅵</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.162.xml
+Location: 20:149
+Description: ...xpan><ex>δραχμὰς</ex></expan> <supplied reason="lost"><num value="4">δ</num> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.177.xml
+Location: 23:153
+Description: ...p extent="2" reason="illegible" unit="character"/> ἐγκα<unclear>λῇ</unclear> ̣ ἀποκρινα<gap extent="1" reason="illegible" unit="character"/><gap extent="u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.181.xml
+Location: 14:80
+Description: <lb n="5"/>Αὐτοκράτορος τὸ <supplied reason="lost">ὕπαρχόν σοι ἐλαιούργιον ̣ ἐν κώμῃ</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.183.xml
+Location: 12:61
+Description: <lb n="3"/><supplied reason="lost">ἀποτάκτο</supplied>υ ̣ τῶν ὅλων <expan><ex>ἀρουρῶν</ex></expan> <expan><ex>πυροῦ</ex></expan> <exp...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.183.xml
+Location: 24:261
+Description: ...ear>, <expan>γί<ex>νονται</ex></expan> ἑκ<supplied reason="lost">άστου ἔτους ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.191.xml
+Location: 28:120
+Description: ...pan> εἰς τὸ <expan>διελ[ηλ<ex>υθὸς</ex></expan> <expan><ex>ἔτος</ex></expan> ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.20.xml
+Location: 34:163
+Description: ...><supplied reason="lost">ᾶσι τοῖς προκειμ</supplied>έ<unclear>ν</unclear>οις ̣. Πε<unclear>θ</unclear>εῦς Ἀ<unclear>πο</unclear>λλ<unclear>ω</unclear><sup...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.21.xml
+Location: 26:64
+Description: <lb n="11"/>λ<unclear>ε</unclear>ιποσι<unclear>ν</unclear> ̣ <expan>μο<ex>δίους</ex></expan> <num value="8"><unclear>η</unclear></num> <...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.27.xml
+Location: 20:326
+Description: ...plied reason="lost"><expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.27.xml
+Location: 26:307
+Description: ...plied reason="lost"><expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.29.xml
+Location: 29:103
+Description: ...nt="unknown" reason="lost" unit="character"/><supplied reason="lost"> εἰς τὸ ̣</supplied> <expan>δη<ex>μόσιον</ex></expan>. </ab></div></body></text></TEI...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.35.xml
+Location: 20:53
+Description: <lb n="8"/><supplied reason="lost">ὁ αὐτὸς ὑπὲρ ̣ </supplied><gap extent="4" reason="lost" unit="character"/>υ δραχμὰς <choic...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.36b.xml
+Location: 12:159
+Description: ...ang="en">m2 ?</note> ἀπὸ μη<unclear>νὸς</unclear> <unclear>Με</unclear>[σορὴ ̣ <gap extent="2" reason="illegible" unit="character"/> ἕως <gap extent="2" r...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.36b.xml
+Location: 14:115
+Description: <lb n="5"/>πλω<unclear>τ</unclear>ῇ <expan>Σοκνοπ<ex>αίου</ex></expan> [<expan>Νή<ex>σου</ex></expan> Πακῦσις ̣]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.36c.xml
+Location: 19:131
+Description: <lb n="7"/><abbr>ελλαντο</abbr> <expan><unclear>Σ</unclear>[οκνοπ<ex>αίου</ex></expan> <expan>Νή<ex>σου</ex></expan> Πνεφερῶς ̣]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.36d.xml
+Location: 14:91
+Description: <lb n="5"/>Ἐπαγάθου <expan>Σοκνοπ<ex>αίου</ex></expan> Ἑ<supplied reason="lost">ριεῦς ̣ </supplied><gap extent="3" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.37.xml
+Location: 12:358
+Description: ...>πί</supplied><unclear>τ</unclear><supplied reason="lost">ου καὶ Λητοπολίτου ̣ καὶ</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.38.xml
+Location: 10:123
+Description: .../supplied> καὶ ἄλλων νομῶν <unclear>Ἰ</unclear><supplied reason="lost">σίωνι ̣ ἀπὸ <expan>Θεογ<ex cert="low">ένους</ex></expan> <expan>χα<ex>ίρειν</ex></e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.38.xml
+Location: 12:264
+Description: ...um value="1">α</num> δι<unclear>ὰ</unclear> <supplied reason="lost">Νείκωνος ̣ <expan>γρα<ex>μματέως</ex></expan> <expan>δραχ<ex>μὰς</ex></expan> </suppli...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.38.xml
+Location: 16:125
+Description: ...um value="6">ϛ</num> Μεχεὶρ <supplied reason="lost"><num value="18">ιη</num> ̣ </supplied> </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.40b.xml
+Location: 12:77
+Description: <lb n="4"/>ἀ<supplied reason="lost">ρά</supplied><unclear>κου</unclear> ̣ ἀρτάβας <choice><corr>τρεῖς</corr><sic>τρις</sic></choice>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.40g.xml
+Location: 8:126
+Description: <lb n="2"/><supplied reason="lost">Μέ</supplied><unclear>μ</unclear>φεως Ἥ<unclear>ρω</unclear><supplied reason="lost">ν ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.40h.xml
+Location: 12:78
+Description: <lb n="4"/><supplied reason="lost">σπ</supplied><unclear>έ</unclear>ρμου ̣ <expan><unclear>ἀρ</unclear>τ<ex>άβας</ex></expan> δύ[ο  <num value="2">β</...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.42h.xml
+Location: 10:41
+Description: <lb n="3"/><unclear>Χή</unclear>ρης ̣ <expan>ἐξ<ex>άγων</ex></expan> <expan>ὄν<ex>ον</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.45.xml
+Location: 26:93
+Description: ...>ὠ<supplied reason="lost">νῆς</supplied> λόγον <supplied reason="lost">φόρον ̣ ἀργ</supplied>υρίου <supplied reason="lost">δραχμὰς </supplied><gap extent=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.45.xml
+Location: 28:380
+Description: ...reason="lost" unit="character"/><supplied reason="lost"> ὀβολ</supplied>οὺς ̣ ἑξ<supplied reason="lost">ήκοντα <num value="60"/> </supplied><gap extent="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.45.xml
+Location: 48:189
+Description: ...="lost">ν</supplied><unclear>α</unclear><supplied reason="lost">ι</supplied> ̣, ἐὰν φ<supplied reason="lost">αί</supplied>νηται ἐπιχωρῆ<unclear>σαι</uncle...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.46.xml
+Location: 21:84
+Description: ...b n="8"/><supplied reason="lost">τοῦ εἰσιόντο</supplied><unclear>ς</unclear> ̣ <num value="15">ιε</num> <expan><ex>ἔτους</ex></expan> Ἁδριανοῦ Κ<unclear>α...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.49.xml
+Location: 10:135
+Description: ...m> <expan>κληρουχ<ex>ίας</ex></expan> Ἀχιλλε<supplied reason="lost">ὺς ὁ καὶ ̣ </supplied><gap extent="8" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.52.xml
+Location: 18:230
+Description: ...</expan> με<supplied reason="lost">χρὶ δ</supplied><unclear>ε</unclear>κάτου ̣ ἔτου<supplied reason="lost">ς</supplied> ἀπὸ φ<unclear>οι</unclear><supplie...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.53.xml
+Location: 17:117
+Description: ...ason="lost" unit="character"/><supplied reason="lost"> Ὀρσενοῦφ</supplied>ις ̣ νεώτερος ἕκαστος ἐπ<unclear>ὶ</unclear> <gap extent="unknown" reason="lost"...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.53.xml
+Location: 36:246
+Description: ...pplied>ὸ ἐπιβάλ<unclear>λ</unclear>ον τῷ πατρὶ α<supplied reason="lost">ὐτῶν ̣ μέρος τὸ προγεγραμμένον μέρος τοῦ λεγομένου οἴκου καὶ </supplied><gap exten...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.53.xml
+Location: 72:141
+Description: ...son="lost" unit="character"/><supplied reason="lost"> Ὀρσενού</supplied>φιος ̣ πρεσβυτέρου εὐδοκῶ τ[ῇ προγεγραμμένῃ διαιρέσει <gap extent="unknown" reason...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.54.xml
+Location: 56:137
+Description: ...aracter"/>ων ἐφοδ<supplied reason="lost">εύει</supplied><unclear>ν</unclear> ̣ κ<gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.59.xml
+Location: 45:266
+Description: ...πείρων πλουμαρίων <supplied reason="lost">ὅπω</supplied><unclear>ς</unclear> ̣ εὑρεθείη δεδ<supplied reason="omitted">ιδ</supplied>αγμέ-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.59.xml
+Location: 49:374
+Description: .../unclear>ὰ τὴν καταβολὴν τοῦ <unclear>π</unclear>ρὸς <unclear>ἐ</unclear>μοῦ ̣ <unclear>εἰ</unclear> <unclear>τῷ</unclear>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.60.xml
+Location: 8:77
+Description: <lb n="2"/><supplied reason="lost">δ</supplied><unclear>ο</unclear>ῦλον ̣ Γε<unclear>μ</unclear>έλ<unclear>λ</unclear><supplied reason="lost">ου</sup...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.60.xml
+Location: 8:161
+Description: ...clear>μ</unclear>έλ<unclear>λ</unclear><supplied reason="lost">ου</supplied> ̣ ἐξαυτῆς ἢ τὸν <choice><corr>ἀρχέφοδον</corr><sic>αρχεφοδα</sic></choice>. <...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.62.xml
+Location: 12:58
+Description: <lb n="3"/>παίου ὑπὲρ ἡμερῶν [<num value="7">ζ</num> ̣ δραχμὰς <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.67.xml
+Location: 14:118
+Description: ...nclear>ν</unclear> <supplied reason="lost">ἐ</supplied><unclear>πὶ</unclear> ̣ λόγου <expan>συναριθμ<ex>ουμένας</ex></expan> αργυρε<gap extent="2" reason=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.71.xml
+Location: 17:115
+Description: <lb n="6"/><gap extent="unknown" reason="lost" unit="character"/>θειν <expan>παραγεγρ<ex>αμμένον</ex></expan> ̣. ἐγὼ οὐδὲν τούτω<unclear>ν</unclear>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.72.xml
+Location: 14:58
+Description: <lb n="4"/><supplied reason="lost">νάριο</supplied>ν ̣ <choice><corr>ὃ</corr><sic>το</sic></choice> ἠγόρακα ἐν τῇ μητρο-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.72A.xml
+Location: 40:151
+Description: ...ied><gap extent="2" reason="lost" unit="character"/><supplied reason="lost"> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.88.xml
+Location: 13:152
+Description: ...="1" reason="illegible" unit="character"/>ουσου διὰ <unclear>Σοκ</unclear>νε ̣ <expan><ex>ἀρτάβης</ex></expan> <num value="1/2"><unclear>𐅵</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.88.xml
+Location: 23:85
+Description: <lb n="9"/>Πετεαπρῆς Πληιε<gap extent="2" reason="illegible" unit="character"/> ̣ <expan><ex>ἀρτάβης</ex></expan> <num value="1/2">𐅵</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.97.xml
+Location: 23:76
+Description: <lb n="9"/><supplied reason="lost">Ψ</supplied><unclear>ά</unclear>εις ̣ <expan>ν<ex>εώτερος</ex></expan> Π<gap extent="1" reason="illegible" unit="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.aberd\p.aberd.99.xml
+Location: 11:21
+Description: <lb n="3"/>ζχιξ ̣ ἐν <abbr>λι<unclear>μ</unclear></abbr> <expan><ex>ἀρταβ  </ex></expan> <num...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.abinn\p.abinn.53.xml
+Location: 13:63
+Description: <lb n="4"/>λε<unclear>ως</unclear>. π<unclear>ρ</unclear>ὸ̣ <choice><corr>ἱκανοῦ</corr><sic><unclear>ε</unclear>ικανου</sic></choice> χ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.alex\p.alex.inv160.xml
+Location: 13:91
+Description: <lb n="2"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.alex\p.alex.inv235.xml
+Location: 19:66
+Description: <lb n="13"/><gap extent="unknown" reason="lost" unit="line"/>̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.amh\p.amh.2\p.amh.2.44.xml
+Location: 16:127
+Description: ...>ἐν Φιλοπάτορι τῆι καὶ <app type="BL"><lem resp="1.1">Θεογένους </lem><rdg>ξ ̣</rdg></app> τοῦ Ἀρσινοίτου νομοῦ. ἐδάνεισε Πύρρος </supplied><gap extent="u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.amh\p.amh.2\p.amh.2.62.xml
+Location: 28:119
+Description: <lb n="12"/><del rend="erasure"><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/></del> ̣ Σαραπίων
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.anag\p.anag.pg122.xml
+Location: 21:292
+Description: ...><gap extent="1" reason="illegible" unit="character"/> <unclear>ἀπ</unclear>ὸ̣ <unclear>λιβ</unclear>ὸς μέρους <unclear>π</unclear><gap extent="9" reason=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ant\p.ant.3\p.ant.3.189.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <expan><supplied reason="lost">γν</supplied><unclear>ῶ</unclear>σ<ex>ις</ex...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bal\p.bal.2\p.bal.2.288.xml
+Location: 40:60
+Description: <lb n="22"/><space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bal\p.bal.2\p.bal.2.355.xml
+Location: 14:180
+Description: ...</num> <num value="1/4"><unclear>δ</unclear></num> <g type="unintelligible"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.batav\p.batav.18.xml
+Location: 83:107
+Description: <lb n="36"/>[<g type="chirho"/> τῷ ἀδελφῷ Βίκτορι καὶ Ε]<unclear>ὐρασιας</unclear> <g type="stauros"/>̣ Β<unclear>ί</unclear>κτωρ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.berl.frisk\p.berl.frisk.1.xml
+Location: 284:65
+Description: <lb n="2"/><gap extent="2" reason="lost" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.berl.salmen\p.berl.salmen.5.xml
+Location: 31:357
+Description: ...unclear></ex></expan> δι<unclear>σχιλίαις</unclear> <num value="2000">Β</num>̣ <note lang="en">?</note>, καὶ <unclear>σύ</unclear>μβολον <unclear>κ</uncle...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bingen\p.bingen.135.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <expan><unclear>κατέ</unclear>β<unclear>αλ</unclear><ex>εν</ex></expan> <un...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bodl\p.bodl.1\p.bodl.1.146.xml
+Location: 23:107
+Description: <lb n="7"/><supplied reason="lost">μαρτυρῶ τῇδε τῇ ὁμολογίᾳ ὡς πρόκειτ</supplied>ε <g type="stauros"/>̣ <handShift new="m5"/> Παηοῦς υἱὸς
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bodl\p.bodl.1\p.bodl.1.65.xml
+Location: 36:224
+Description: ...n="lost">ι τῶ</supplied>ν συμ<unclear>βιώσε</unclear><supplied reason="lost">̣ω</supplied> ν<gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bodl\p.bodl.1\p.bodl.1.80.xml
+Location: 21:124
+Description: ...ear>κ</unclear>οσμιοτιτος</sic></choice> καὶ τοῦ υἱοῦ α<unclear>ὐτ</unclear>ῆ̣<unclear>ς</unclear> καὶ <unclear>τ</unclear>ο<unclear>ύ</unclear>των τῶν <g...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bodl\p.bodl.1\p.bodl.1.95.xml
+Location: 19:148
+Description: ...ter"/> <foreign lang="la">p<supplied reason="lost">rius</supplied></foreign>[̣<foreign lang="la">quam <unclear>c</unclear></foreign><gap extent="unknown"...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bour\p.bour.42.xml
+Location: 747:105
+Description: <lb n="346"/>Πᾶσις Χαιρ<gap extent="unknown" reason="lost" unit="character"/> <num type="fraction"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bour\p.bour.42.xml
+Location: 749:70
+Description: <lb n="347"/><expan>Διδᾶ<ex>ς</ex></expan> <num type="fraction"/>̣,
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bour\p.bour.42.xml
+Location: 778:48
+Description: <lb n="360"/>Παούρου <num type="fraction"/>̣,
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 292:150
+Description: <lb n="8"/><supplied reason="lost">τ</supplied><unclear>ὰ</unclear> προ<unclear>γ</unclear>[εγραμμένα <space extent="unknown" unit="character"/> ̣ ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 520:235
+Description: ...lear>χ</unclear>έ[σει. διευτύχει. <space extent="unknown" unit="character"/> ̣ ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 543:93
+Description: <lb n="7"/>προγεγρ<unclear>αμ</unclear>[μένα <space extent="unknown" unit="character"/> ̣ ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 644:61
+Description: <lb n="2"/>[ <space extent="unknown" unit="character"/> ̣ ] <space extent="unknown" unit="character"/> Π[αῦνι <gap extent="1" reason=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 667:59
+Description: <lb n="4"/><space extent="unknown" unit="character"/> ̣ <gap extent="unknown" reason="lost" unit="character"/>ωνος <expan>διακ<ex>ε...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 696:61
+Description: <lb n="9"/>[ <space extent="unknown" unit="character"/> ̣ ] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 713:61
+Description: <lb n="6"/>[ <space extent="unknown" unit="character"/> ̣ ] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 808:61
+Description: <lb n="6"/>[ <space extent="unknown" unit="character"/> ̣ ] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 1273:192
+Description: ...Ἐπεὶφ <num value="29">κθ</num> [ <space extent="unknown" unit="character"/> ̣ ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.bub\p.bub.1\p.bub.1.4.xml
+Location: 1410:61
+Description: <lb n="3"/>[ <space extent="unknown" unit="character"/> ̣ ] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.isid\p.cair.isid.87.xml
+Location: 12:115
+Description: ...lost">ις </supplied><gap extent="unknown" reason="lost" unit="character"/> ο῾̣<unclear>μολογοῦ</unclear><supplied reason="lost">μεν</supplied> <unclear>ἐσ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.isid\p.cair.isid.88.xml
+Location: 18:144
+Description: ...m>]<num value="6"><unclear>ϛ</unclear></num> <orig><g type="s-etous"/></orig>̣ καὶ <num value="4">δ</num> <orig><g type="s-etous"/></orig> <unclear>τ</unc...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.masp\p.cair.masp.1\p.cair.masp.1.67019.xml
+Location: 56:93
+Description: ...><supplied reason="lost">κράτος</supplied> ὑπὲρ πάντ<unclear>α</unclear>ς τοὺ̣<supplied reason="lost">ς π</supplied><unclear>ρώ</unclear>ην βεβ<unclear>ασ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.masp\p.cair.masp.2\p.cair.masp.2.67151dupl.xml
+Location: 12:157
+Description: ...xpan>Δωροθ<ex>έου</ex></expan> <expan>ἐνδοξοτ<ex>άτου</ex></expan></lem><rdg>̣<unclear>λ</unclear><gap extent="3" reason="illegible" unit="character"/><ab...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.masp\p.cair.masp.2\p.cair.masp.2.67151dupl.xml
+Location: 14:112
+Description: ...resp="2.2.39">στρατηλάτου καὶ <expan>ταβουλαρ<ex>ίου</ex></expan></lem><rdg>̣<unclear>υ</unclear>π<gap extent="2" reason="illegible" unit="character"/><u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.masp\p.cair.masp.3\p.cair.masp.3.67290.xml
+Location: 11:78
+Description: <lb n="2"/>ὡς Εὐδ<hi rend="supraline">όξιος</hi> ὁ λαμπρότατος ἔπεμψεν ε᾿̣<unclear>π</unclear>η<unclear>ρε</unclear><supplied reason="lost">ά</supplie...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.zen\p.cair.zen.1\p.cair.zen.1.59054.xml
+Location: 139:66
+Description: <lb n="49"/><gap extent="3" reason="illegible" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.zen\p.cair.zen.4\p.cair.zen.4.59706.xml
+Location: 49:61
+Description: <lb n="22"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.cair.zen\p.cair.zen.4\p.cair.zen.4.59787.xml
+Location: 162:80
+Description: <lb n="71"/>σησάμου <gap extent="3" reason="illegible" unit="character"/> —̣ <expan>χα<ex>λκοῦ</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.charite\p.charite.13.xml
+Location: 91:139
+Description: ...supplied reason="lost">ήλιος Τύρανν</supplied>ος Β<unclear>ήκιος</unclear> ε᾿̣<unclear>π</unclear>ίπλοος ἀχύρου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.10\p.col.10.273.xml
+Location: 127:49
+Description: <lb n="15"/>καὶ δι᾽ ἀλλ<unclear>ο</unclear>ῦ̣ <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.4\p.col.4.69.xml
+Location: 142:93
+Description: <lb n="64"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.5\p.col.5.1-v-4.xml
+Location: 416:64
+Description: <lb n="140"/><num value="30">λ</num> <num type="fraction"/>̣ <expan><ex>ἄρουραι</ex></expan> <num value="6">ϛ</num> <num value="1/2">𐅵</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.7\p.col.7.136.xml
+Location: 28:281
+Description: ...unclear>καὶ</unclear> <num value="4">δ</num> <orig><g type="s-etous"/></orig>̣ <unclear>τῶν</unclear> κυρίων ἡμῶν Διο<unclear>κλητι</unclear>ανοῦ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.7\p.col.7.137.xml
+Location: 219:123
+Description: ...<num value="18"><unclear>ιη</unclear></num> <orig><g type="s-etous"/></orig>̣ καὶ <num value="17">ιζ</num> <orig><g type="s-etous"/></orig> καὶ <num valu...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.7\p.col.7.142.xml
+Location: 42:44
+Description: <lb n="18"/>τα πεν<unclear>τ</unclear>ή̣κοντα, <expan><ex>γίνεται</ex></expan> <expan><ex>τάλαντα</ex></expan> <supp...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.7\p.col.7.179.xml
+Location: 68:142
+Description: ...<num value="16"><unclear>ιϛ</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>καὶ</unclear> <num value="15"><unclear>ιε</unclear></num> <orig><g...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.7\p.col.7.179.xml
+Location: 68:243
+Description: ...<num value="15"><unclear>ιε</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>καὶ</unclear> <num value="8">η</num> <orig><g type="s-etous"/></or...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.col\p.col.8\p.col.8.236.xml
+Location: 24:92
+Description: <lb n="9"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.coll.youtie\p.coll.youtie.2\p.coll.youtie.2.89.xml
+Location: 59:347
+Description: ...plied reason="lost"> ἐγρά</supplied><unclear>φη</unclear>  <g type="chirho"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.diog\p.diog.25.xml
+Location: 42:140
+Description: <lb n="19"/>μηνὸς Ἁδ<supplied reason="lost">ρι</supplied>ανοῦ ὀγδό<supplied reason="lost">ῃ <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.diog\p.diog.25.xml
+Location: 50:304
+Description: .../choice> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣</supplied> </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.diog\p.diog.45.xml
+Location: 90:283
+Description: ..."><unclear>γ</unclear></num> <num value="1/16"><unclear>ιϛ</unclear></num> ω῟̣<supplied reason="lost">ν </supplied><gap extent="unknown" reason="lost" uni...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.dion\p.dion.17.xml
+Location: 10:137
+Description: ...="lost">ω</supplied><unclear>ν</unclear> ἔτους <unclear>δ</unclear>εκάτου, ε᾿̣<unclear>φ</unclear>᾽ <unclear>ἱερέως</unclear> <unclear>τ</unclear><supplie...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.diosk\p.diosk.18.xml
+Location: 79:183
+Description: ...nclear>α</unclear><supplied reason="lost">θα</supplied><unclear>ρ</unclear>π̣̀<unclear>ν</unclear> <unclear>ἀπ</unclear><supplied reason="lost">ό</supplie...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.dura\p.dura.30.xml
+Location: 100:148
+Description: <lb n="3"/><handShift new="m8"/><expan><unclear>α</unclear>ντ<ex>ονιυς</ex></expan> <unclear>μ</unclear>εζιανυς <expan>οπ[τ<ex>ιο</ex></expan> ̣]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.dura\p.dura.32.xml
+Location: 65:64
+Description: <lb n="5"/><handShift new="m9"/> <supplied reason="lost">ξ ̣</supplied> </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.1\p.eirene.1.26.xml
+Location: 39:36
+Description: <lb n="16"/><g type="stauros"/>̣ <expan>Σενούθ<ex>ιος</ex></expan> <expan>νοτ<ex>άριος</ex></expan> <expan>δ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.12.xml
+Location: 60:57
+Description: <lb n="27"/><handShift new="m3"/><g type="stauros"/>̣ δι᾽ ἐμ<unclear>ο</unclear>ῦ Ἐπ<unclear>ι</unclear>φανίου <expan>συμβολαι<ex>ογράφου</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.17.xml
+Location: 9:82
+Description: <lb n="2"/><g type="chirho"/> Ἁθὺρ <num value="1">α</num> <g type="stauros"/>̣ <choice><corr>ἀπεσχό-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.18.xml
+Location: 10:328
+Description: ...χ</abbr> <milestone rend="paragraphos" unit="undefined"/> <g type="stauros"/>̣.</ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.21.xml
+Location: 16:56
+Description: <lb n="6"/><handShift new="m1"/><g type="stauros"/>̣ <gap extent="2" reason="lost" unit="character"/><gap extent="1" reason="ill...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.22.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <gap extent="3" reason="illegible" unit="character"/> <unclear>ἀπὸ</unclear> Ἀ<unclear>φρο</unclear>διτὼ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.22.xml
+Location: 10:34
+Description: <lb n="3"/><g type="chirho"/>̣ κύρου <expan>Φ<unclear>οιβ</unclear><ex>άμμωνος</ex></expan>.</ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eirene\p.eirene.2\p.eirene.2.8.xml
+Location: 41:36
+Description: <lb n="16"/><g type="stauros"/>̣ <gap extent="unknown" reason="lost" unit="character"/></ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.eleph\p.eleph.8.xml
+Location: 48:53
+Description: <lb n="22"/><app type="BL"><lem resp="1.126">πρώ̣ην</lem><rdg><gap extent="1" reason="illegible" unit="character"/><unclear>ρ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.enteux\p.enteux.12.xml
+Location: 23:38
+Description: <lb n="8"/><handShift new="m2"/> ̣ Ἀγ<supplied reason="lost">ή</supplied>νωρ Τιμοξένωι χαίρε<supplied reason="lost">ι</supplied>ν.  ἀπέσταλκά σοι τῆς
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.erl\p.erl.48.xml
+Location: 86:69
+Description: <lb n="40"/><expan><ex>γίνονται</ex></expan> ἐπὶ τὸ τῆς <abbr>ε᾿̣<unclear>κ</unclear></abbr> <expan><ex>τάλαντα</ex></expan> <num value="12">...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.fam.tebt\p.fam.tebt.41.xml
+Location: 8:84
+Description: <lb n="2"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.flor\p.flor.3\p.flor.3.292.xml
+Location: 17:74
+Description: <lb n="6"/><supplied reason="lost">ἀπέσταλται. <handShift new="m2"/> ̣ ἔρρωσθε</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.fuad.i.univ\p.fuad.i.univ.30.xml
+Location: 10:494
+Description: ...<gap extent="2" reason="illegible" unit="character"/> <num type="fraction"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.giss\p.giss.60.xml
+Location: 132:137
+Description: ...expan> <num value="8">η</num> <num value="1/3">γ</num> <num type="fraction"/>̣ [<app type="BL"><lem resp="cf. 2.2.66"><expan><ex>ἡμιαρταβίου</ex></expan><...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.giss.univ\p.giss.univ.3\p.giss.univ.3.26.xml
+Location: 72:95
+Description: ...gap extent="unknown" reason="lost" unit="character"/> κυρίῳ μου <g type="x"/>̣ ἀδελφ<supplied reason="lost">ῷ</supplied> <gap extent="2" reason="illegible...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.grad\p.grad.5.xml
+Location: 21:350
+Description: ...οὶ 3</ex></expan><num value="3"/> <space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.graux\p.graux.2\p.graux.2.12.xml
+Location: 12:196
+Description: ...on="illegible" unit="character"/> <space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.graux\p.graux.2\p.graux.2.14.xml
+Location: 12:334
+Description: ...</num> <num value="1/48">μη</num> <space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.graux\p.graux.2\p.graux.2.18.xml
+Location: 18:245
+Description: ...ίω</supplied>ν <num value="900"/> <space extent="unknown" unit="character"/> ̣ παρὰ Αὐρηλίων Γούνθου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.graux\p.graux.2\p.graux.2.24.xml
+Location: 24:243
+Description: ...n="illegible" unit="character"/>   <space extent="unknown" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.hamb\p.hamb.3\p.hamb.3.231.xml
+Location: 26:36
+Description: <lb n="10"/><g type="stauros"/>̣ <expan><unclear>χ</unclear><ex>ει</ex><unclear>ρ</unclear><ex>όγραφον</ex><...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.harr\p.harr.2\p.harr.2.212.xml
+Location: 11:253
+Description: ...racter"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.harr\p.harr.2\p.harr.2.212.xml
+Location: 13:205
+Description: ...<supplied reason="lost">υρυγχίτου <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.heid\p.heid.6\p.heid.6.374.xml
+Location: 224:60
+Description: <lb n="107"/><space extent="unknown" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.heid\p.heid.8\p.heid.8.420.xml
+Location: 71:20
+Description: <lb n="8a"/>ει᾿̣<supplied reason="lost">ς</supplied> τοῦτο ἔχω Φαῶφι <num value="6">ϛ</num> <expan><ex>δραχμὰς</ex></expan> <num value="240">σμ</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.hels\p.hels.1\p.hels.1.1.xml
+Location: 6:339
+Description: ...> <supplied reason="lost">χαίρειν <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.hels\p.hels.1\p.hels.1.3.xml
+Location: 12:187
+Description: ...ow">τάλαντ</ex></expan> [<num value="1">α</num>  <num value="4380">Δτπ</num> ̣ <gap extent="unknown" reason="illegible" unit="character"/>]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.hels\p.hels.1\p.hels.1.32.xml
+Location: 40:250
+Description: ...acter"/> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.I.xml
+Location: 669:186
+Description: ...οέδρων <num value="8"><unclear>η</unclear></num> <expan><unclear>π</unclear>ά̣<unclear>γ</unclear><ex>ου</ex></expan> <expan><unclear>ἰδι</unclear>ω<ex>τι...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 372:45
+Description: <lb n="176"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Ἑρμῆς Κοπρέ<unclear>ο</unclear>υ <num value="5...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 372:74
+Description: <lb n="176"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Ἑρμῆς Κοπρέ<unclear>ο</unclear>υ <num value="5">ε</num> πάγου <expan>ἰδ<ex>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 515:73
+Description: <lb n="246"/><g type="slanting-stroke"/> <g type="slanting-stroke"/>̣ δι᾽ Αἰλιανοῦ <num value="8">η</num> πάγο<supplied reason="lost">υ</supplied...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 573:45
+Description: <lb n="274"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <hi rend="diaeresis"><unclear>Ἰ</unclear></hi>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 573:74
+Description: <lb n="274"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <hi rend="diaeresis"><unclear>Ἰ</unclear></hi>εροκλῆ<unclear>ς</unclear> Ἑλ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 761:45
+Description: <lb n="365"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <expan>κλ<ex>ηρονόμοι</ex></expan> Μικρύλλου <...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 761:74
+Description: <lb n="365"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <expan>κλ<ex>ηρονόμοι</ex></expan> Μικρύλλου <num value="13">ι<unclear>γ</u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 849:45
+Description: <lb n="407"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Πινο</unclear>υτίων Διοσκουρίδου <num...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 849:74
+Description: <lb n="407"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Πινο</unclear>υτίων Διοσκουρίδου <num value="15">ιε</num> πάγου <e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 851:45
+Description: <lb n="408"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Πιν</unclear>ουτίων Ὀλυμπιο<unclear>δ</unclear>ώ<unclear>ρο</unclear>υ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 851:74
+Description: <lb n="408"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Πιν</unclear>ουτίων Ὀλυμπιο<unclear>δ</unclear>ώ<unclear>ρο</unclear>υ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1129:45
+Description: <lb n="541"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Βησοῦς ἡ <unclear>κ</unclear>αὶ Ἰσ<unclear>ιδώ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1129:74
+Description: <lb n="541"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Βησοῦς ἡ <unclear>κ</unclear>αὶ Ἰσ<unclear>ιδώρ</unclear>α <num value="5">ε...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1176:45
+Description: <lb n="562"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Δω<unclear>ρ</unclear><supplied reason="lost">...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1176:74
+Description: <lb n="562"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Δω<unclear>ρ</unclear><supplied reason="lost">ό</supplied><unclear>θ</uncle...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1503:45
+Description: <lb n="711"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <expan>κ<unclear>λ</unclear><ex>ηρονόμοι</ex><...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1503:74
+Description: <lb n="711"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <expan>κ<unclear>λ</unclear><ex>ηρονόμοι</ex></expan> <unclear>Εὐλογί</uncl...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1522:45
+Description: <lb n="720"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Λῦτις Ποτάμωνος <num value="6">ϛ</num> πάγου <...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1522:74
+Description: <lb n="720"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Λῦτις Ποτάμωνος <num value="6">ϛ</num> πάγου <expan>ἰδ<ex>ιωτικῆς</ex></exp...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1532:45
+Description: <lb n="725"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Μ</unclear>ακάριος περαξ <num value="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1532:74
+Description: <lb n="725"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Μ</unclear>ακάριος περαξ <num value="5">ε</num> πάγου <choice><cor...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1634:45
+Description: <lb n="773"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Σευῆρις <hi rend="diaeresis">ἱ</hi>ερεὺς <num...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.herm.landl\p.herm.landl.II.xml
+Location: 1634:74
+Description: <lb n="773"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ Σευῆρις <hi rend="diaeresis">ἱ</hi>ερεὺς <num value="6">ϛ</num> πάγου <expa...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.hever\p.hever.68.xml
+Location: 17:91
+Description: <lb n="8"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.hib\p.hib.2\p.hib.2.235.xml
+Location: 6:172
+Description: ...ῶν Ζωίλο<supplied reason="lost">υ <space extent="unknown" unit="character"/> ̣</supplied> ἀδικοῦμαι ὑπὸ Διονυσίας
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.horak\p.horak.39.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ μαρτυρίῳ <expan>ρογ<ex>άτορι</ex></expan>· <expan>παράσχ<ex>ου</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.horak\p.horak.80.xml
+Location: 18:126
+Description: ...d reason="lost">ρ</supplied><unclear>ώ</unclear>τῳ χ<unclear>ειρὸ</unclear>ς´̣ <unclear>ἀ</unclear>ριστερᾶς, ἔ<unclear>χε</unclear>ιν <supplied reason="lo...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.iand\p.iand.3\p.iand.3.49.xml
+Location: 38:59
+Description: <lb n="15"/><handShift new="m2"/> <g type="stauros"/> ̣ <expan><unclear>σ</unclear>υν<ex>άλλαγμα</ex></expan> Παπνουθίου φ<unclear>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.iand\p.iand.4\p.iand.4.56.xml
+Location: 25:21
+Description: <lb n="10"/>Ὀνο̣̂φρις <choice><corr><expan>Ἀ<supplied reason="omitted">γ</supplied>χορίμφεω<e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.iand\p.iand.7\p.iand.7.136.xml
+Location: 26:281
+Description: ..." unit="character"/> <expan>Ἀλθ<ex>έως</ex></expan> <supplied reason="lost"> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.iand.inv.653\p.iand.inv.653.2.xml
+Location: 138:35
+Description: <lb n="1"/><g type="stauros"/>̣ <expan><unclear>τ</unclear><supplied reason="lost">ρ</supplied>οφ<ex>ὴ</ex>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.kell\p.kell.1\p.kell.1.16.xml
+Location: 22:92
+Description: <lb n="9"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.kell\p.kell.1\p.kell.1.59.xml
+Location: 10:438
+Description: ...<gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.koeln\p.koeln.10\p.koeln.10.412.xml
+Location: 334:129
+Description: ...unit="character"/><gap extent="1" reason="illegible" unit="character"/>ερ ο῾̣μ<unclear>ολογ</unclear><gap extent="3" reason="illegible" unit="character"/...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.koeln\p.koeln.10\p.koeln.10.420.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ τῷ ἁγιωτάτῳ καὶ <choice><corr>θεοσεβε<supplied reason="lost">στάτῳ</supplie...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.koeln\p.koeln.3\p.koeln.3.158.xml
+Location: 7:88
+Description: <lb n="1"/><g type="stauros"/> ἐν ὀνόμ<unclear>α</unclear>τι τ<unclear>ο</unclear>ῦ̣ <unclear>κ</unclear>υρίου καὶ δεσπό<unclear>του</unclear>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.laur\p.laur.4\p.laur.4.184.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ <expan>γνῶ<ex>σις</ex></expan> <expan>ἑκά<ex>στου</ex></expan> κελλαρικοῦ <...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.laur\p.laur.4\p.laur.4.185.xml
+Location: 12:33
+Description: <lb n="2"/><g type="check"/>̣ <expan>δ<ex>ιὰ</ex></expan> Ἀμ<gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.leid.inst\p.leid.inst.60.xml
+Location: 8:230
+Description: ...n="lost">ηρᾶς πόλεως Ὀξυρυγχείτου <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.leid.inst\p.leid.inst.60.xml
+Location: 12:232
+Description: ...pplied reason="lost">ιτῶν πόλεως. <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.leid.inst\p.leid.inst.67.xml
+Location: 60:60
+Description: <lb n="24"/><space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lips\p.lips.1\p.lips.1.40.xml
+Location: 66:276
+Description: ...lang="la">Hermaion </foreign> <expan>ξυρατ<ex>ορ</ex></expan> <abbr>ε</abbr> ̣ <expan>δ<ex>ιχιτ</ex></expan>εἰ μὴ ἦσαν πρὸς τῇ οἰκίᾳ μου, πάλαι ἂν ὁ Ἀσυγκ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lips\p.lips.1\p.lips.1.40.xml
+Location: 121:480
+Description: ...δώδεκα . <foreign lang="la">Senecion </foreign><expan>συπερστατ<ex>ιοναριυς ̣</ex></expan> <abbr>ε</abbr> ̣ <expan>δ<ex>ιχιτ</ex></expan>·ὁ δὲ λόγος τοῦ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lips\p.lips.1\p.lips.1.40.xml
+Location: 121:510
+Description: ...enecion </foreign><expan>συπερστατ<ex>ιοναριυς ̣</ex></expan> <abbr>ε</abbr> ̣ <expan>δ<ex>ιχιτ</ex></expan>·ὁ δὲ λόγος τοῦ ἑταίρου μου <choice><corr>Σεργ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lips\p.lips.1\p.lips.1.42dupl.xml
+Location: 21:617
+Description: ...w" reason="lost"><unclear>ιβ</unclear></supplied><unclear>έλλων</unclear>&gt;̣<num value="1">α</num> ἐπιδ<supplied reason="lost">ο</supplied>θέ<unclear>ντ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.2\p.lond.2.291.xml
+Location: 15:177
+Description: ...υ <gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.3\p.lond.3.1007b+c.xml
+Location: 14:93
+Description: ...<app type="BL"><lem resp="7.88">[ <space extent="unknown" unit="character"/> ̣ ἐνδ]<unclear>ο</unclear>ξοτάτου</lem><rdg><supplied reason="lost">ἐνδόξου<e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.4\p.lond.4.1419.xml
+Location: 1127:68
+Description: <lb n="493"/><gap extent="10" reason="lost" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.4\p.lond.4.1433.xml
+Location: 1288:61
+Description: <lb n="591"/><space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.4\p.lond.4.1433.xml
+Location: 1291:61
+Description: <lb n="592"/><space extent="unknown" unit="character"/> ̣ </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.4\p.lond.4.1434.xml
+Location: 585:62
+Description: <lb n="260"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.4\p.lond.4.1460.xml
+Location: 329:62
+Description: <lb n="142"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.4\p.lond.4.1462-N-r.xml
+Location: 66:92
+Description: <lb n="1"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1661.xml
+Location: 65:64
+Description: <lb n="29"/><note lang="en">m5 ?</note> <g type="stauros"/>̣ δι᾽ ἐμοῦ Πιλάτου <hi rend="supraline"><expan><unclear>ν</unclear>ομ<unclear...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1667.xml
+Location: 28:58
+Description: <lb n="11"/><handShift new="m4"/> <g type="stauros"/>̣ <expan><unclear>κ</unclear><supplied reason="lost">α</supplied><unclear>ταβ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1674.xml
+Location: 167:61
+Description: <lb n="81"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1723.xml
+Location: 59:104
+Description: ...reason="lost">μοσίῳ τόπῳ.</supplied> <handShift new="m4"/> <g type="chirho"/>̣ <expan>Φλ<ex>αύιος</ex></expan> Πατε<unclear>ρ</unclear>μούθ<unclear>ε</unc...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1733.xml
+Location: 165:58
+Description: <lb n="80"/><handShift new="m9"/> <g type="stauros"/>̣ <expan>Φλ<ex>αύιος</ex></expan> Ἑρμίας <hi rend="diaeresis">Ἰ</hi>ωάννης <e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1736.xml
+Location: 76:58
+Description: <lb n="34"/><handShift new="m1"/> <g type="stauros"/>̣ <unclear>δ</unclear><supplied reason="lost">ι᾽ </supplied><gap extent="unkn...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1736.xml
+Location: 79:392
+Description: ...="character"/> <space extent="unknown" unit="character"/> <g type="stauros"/>̣ <expan>ν<supplied reason="lost">ο</supplied><ex>μισμάτων</ex></expan> <num...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1772.xml
+Location: 65:83
+Description: ...lb n="29"/><handShift new="m3"/> [<g type="stauros"/>] <unclear>Α</unclear>υ᾿̣<unclear>ρ</unclear>ή<supplied reason="lost">λιο</supplied><unclear>ς</uncle...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.5\p.lond.5.1795.xml
+Location: 47:64
+Description: <lb n="20"/><note lang="en">m4 ?</note> <g type="stauros"/>̣ <app type="BL"><lem resp="8.194">δ<supplied reason="lost">ι᾽ ἐ</supplied>μο...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.6\p.lond.6.1919.xml
+Location: 80:66
+Description: <lb n="36"/><gap extent="1" reason="illegible" unit="line"/> ̣ </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.6\p.lond.6.1923.xml
+Location: 56:35
+Description: <lb n="25"/><g type="chirho"/>̣ <unclear>τ</unclear><supplied reason="lost">ῷ</supplied> <unclear>κ</unclea...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.lond\p.lond.6\p.lond.6.1925.xml
+Location: 54:160
+Description: .../supplied><unclear>ου</unclear> [ <space extent="unknown" unit="character"/> ̣ Πα]πνουτίῳ ἀναχωρητῇ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.marm\p.marm.r.xml
+Location: 704:139
+Description: ...<expan><ex>ἄρουραι</ex></expan> <num value="8">η</num> <num type="fraction"/>̣ <expan>[γ<ex>ε</ex>]ί<ex>τονες</ex></expan> τ<supplied reason="lost">ῶν</su...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mert\p.mert.2\p.mert.2.100.xml
+Location: 16:331
+Description: .../unclear><ex>ικτίονος</ex></expan>. <handShift new="m2"/> <g type="stauros"/>̣ Ἠλίας <expan>νοτ<ex>άριος</ex></expan> <supplied cert="low" reason="lost">ὁ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mert\p.mert.2\p.mert.2.88.xml
+Location: 16:236
+Description: ...<num value="13">ι<unclear>γ</unclear></num> <orig><g type="s-etous"/></orig>̣ <unclear>καὶ</unclear> <num value="6">ϛ</num> <orig><g type="s-etous"/></or...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.meyer\p.meyer.20.xml
+Location: 123:61
+Description: <lb n="4"/>Ἑρμων<supplied reason="lost">θ</supplied>ειτῶ̣<unclear>ν</unclear> <g type="x"/> ἀντικρὺ το<unclear>ῦ</unclear> <gap exten...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.1\p.mich.1.62.xml
+Location: 16:60
+Description: <lb n="5"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.1\p.mich.1.67.xml
+Location: 53:51
+Description: <lb n="24"/>οὓς ἀπέδοτο <unclear>το</unclear>ῖ̣<unclear>ς</unclear> <unclear>μετ</unclear>αβόλοις καὶ Νίκων οὓς
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.13\p.mich.13.667.xml
+Location: 101:71
+Description: <lb n="47"/>παρὰ τῶν θεμέν<unclear>ων</unclear> <g type="chirho"/>̣ <unclear>μαρτυρῶ</unclear> <unclear>δὲ</unclear>  <hi rend="supraline">ὅ</h...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.15\p.mich.15.718.xml
+Location: 22:108
+Description: <lb n="7"/><g type="large-parens"/>  <num value="25">κ<unclear>ε</unclear></num> <num type="fraction"/>̣ </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.15\p.mich.15.722.xml
+Location: 26:293
+Description: ...an>Περό<ex>ῃ</ex></expan>       <num value="4">δ</num> <num type="fraction"/>̣ <num value="1/8"><unclear>η</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.15\p.mich.15.722.xml
+Location: 36:108
+Description: <lb n="15"/><abbr>Θμο</abbr>                              <num value="6">ϛ</num> <num type="fraction"/>̣ <num value="1/48"><unclear>μη</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mich\p.mich.8\p.mich.8.475.xml
+Location: 15:184
+Description: ...ied reason="lost">ί</supplied>νω δ<supplied reason="lost">ὲ</supplied> καὶ Γ̣̓<supplied reason="lost">ώ</supplied>.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.michael\p.michael.125.xml
+Location: 17:35
+Description: <lb n="6"/><g type="stauros"/>̣ <choice><corr>ἀρτάβην</corr><sic><unclear>α</unclear>ρτ<unclear>α</unclear>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.michael\p.michael.52.xml
+Location: 121:57
+Description: <lb n="57"/><supplied reason="lost">Ὀνν</supplied>ο̣̂φρ<unclear>ι</unclear>ς Πινοῦτος μαρ<supplied reason="lost">τυρῶ ταύτῃ τῇ πρ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.michael\p.michael.52.xml
+Location: 129:99
+Description: ...lied reason="lost">τῆς τιμ</supplied><unclear>ῆς</unclear> <g type="chirho"/>̣ <handShift new="m1"/> <g type="stauros"/> δῆλον ὅτι τήνδε <supplied reason=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mil.vogl\p.mil.vogl.2\p.mil.vogl.2.88dupl.xml
+Location: 15:138
+Description: ...<supplied reason="lost">έτ</supplied>ω<supplied reason="lost">ς</supplied> ε᾿̣<unclear>κ</unclear>βεβηκέναι
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mil.vogl\p.mil.vogl.4\p.mil.vogl.4.214.xml
+Location: 155:176
+Description: ...> <num value="514">φιδ</num> <num value="1/2">𐅵</num> <num type="fraction"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.mil.vogl\p.mil.vogl.4\p.mil.vogl.4.221.xml
+Location: 18:40
+Description: <lb n="7"/><unclear>πυρο</unclear>ῦ̣ <expan><unclear>ἀρτάβ</unclear><ex>ας</ex></expan> ἑβδ<supplied reason="los...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.neph\p.neph.44.xml
+Location: 40:253
+Description: ...<gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ness\p.ness.3\p.ness.3.19.xml
+Location: 23:146
+Description: ...ason="lost">ο</supplied>ῦ τρίτου.  <handShift new="m2"/> <g type="stauros"/> ̣ <expan>Φ<unclear>λ</unclear><ex>άουιος</ex></expan> <choice><corr>Βίκτωρ</c...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ness\p.ness.3\p.ness.3.27.xml
+Location: 39:228
+Description: ...<supplied reason="lost">α</supplied><unclear>ψα</unclear> <g type="stauros"/>̣ <gap extent="30" reason="lost" unit="character"/> </ab></div></body></text>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ness\p.ness.3\p.ness.3.68.xml
+Location: 20:58
+Description: <lb n="1"/><handShift new="m2"/> <g type="stauros"/> ̣ <abbr><unclear>Εμ</unclear><gap extent="2" reason="illegible" unit="charact...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.nyu\p.nyu.2\p.nyu.2.16.xml
+Location: 25:175
+Description: ...ied>ή<unclear>ρ</unclear>ου κατοικικῆς <supplied reason="lost">γ</supplied>γ̣̂ς ἀρούρας δέκα <num value="10"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.nyu\p.nyu.2\p.nyu.2.25.xml
+Location: 64:124
+Description: ...ied reason="lost">ἐν μη</supplied><unclear>νὶ</unclear> <unclear>Ἐ</unclear>[̣<supplied reason="lost">εὶφ </supplied><gap extent="unknown" reason="lost" u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.nyu\p.nyu.2\p.nyu.2.37.xml
+Location: 12:276
+Description: ...value="15">ι<unclear>ε</unclear></num> [ <supplied reason="lost">γαπ εχτεντ̂"̣"&gt; </supplied> <num value="1/16">ιϛ</num> <num value="1/24">κδ</num> <exp...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oslo\p.oslo.3\p.oslo.3.111.xml
+Location: 646:64
+Description: <lb n="285"/>ἐλεύθ<supplied reason="lost">ερον</supplied> ἢ̣ <supplied reason="lost">ἀπελεύθε</supplied>ρον <expan>συνοικ<ex>εῖν</ex></e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oslo\p.oslo.3\p.oslo.3.94.xml
+Location: 13:38
+Description: <lb n="4"/><unclear>θε</unclear>ῶ̣ν καὶ <choice><corr>κωμαστὴς</corr><sic>κομαστης</sic></choice> π<unclear>ρ<...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.12\p.oxy.12.1582.xml
+Location: 15:123
+Description: <lb n="4"/><gap extent="4" reason="lost" unit="character"/><supplied reason="lost"> ἡ</supplied><unclear>μ</unclear>ε̣̂ρᾳ τῶν γυμνασιάρ-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.14\p.oxy.14.1770.xml
+Location: 11:99
+Description: <lb n="3"/>δελφοῖς πλεῖστ<supplied reason="lost">α <space extent="unknown" unit="character"/> ̣</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.16\p.oxy.16.1867.xml
+Location: 39:84
+Description: ...b n="16"/><supplied reason="lost"><space extent="unknown" unit="character"/> ̣</supplied> <g type="stauros"/> Παμα<unclear>μ</unclear>ίῳ <expan>μείζ<ex>ον...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.16\p.oxy.16.1916.xml
+Location: 91:89
+Description: ...41"/>καὶ <expan><ex cert="low">ὑπὲρ</ex></expan> <supplied reason="omitted"> ̣ </supplied> ἀπὸ τῶν <supplied reason="omitted"> </supplied> <expan>νο<ex>μι...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.24\p.oxy.24.2422.xml
+Location: 174:88
+Description: ..."83"/><g type="check"/> <g type="unintelligible"/> <g type="unintelligible"/>̣ Ταλαὼ <expan>χοιρ<ex cert="low">είου</ex></expan> <expan>ἐκγί<ex>νεται</ex>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.40\p.oxy.40.2908.xml
+Location: 188:60
+Description: <lb n="41"/><space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.43\p.oxy.43.3113.xml
+Location: 66:64
+Description: <lb n="30"/><supplied reason="lost"><handShift new="m2"/>ξ ̣</supplied><gap extent="1" reason="illegible" unit="character"/> Πούπλιος Λι...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.43\p.oxy.43.3137.xml
+Location: 13:98
+Description: <lb n="4"/>Ὡρίωνος Θέωνος <supplied reason="lost"><space extent="unknown" unit="character"/> ̣</supplied>  <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.47\p.oxy.47.3336.xml
+Location: 8:84
+Description: <lb n="1"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.47\p.oxy.47.3343.xml
+Location: 24:190
+Description: ...α</num>. <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.47\p.oxy.47.3361.xml
+Location: 39:135
+Description: ..."character"/><unclear>α</unclear> <space extent="unknown" unit="character"/> ̣ <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.50\p.oxy.50.3576.xml
+Location: 49:265
+Description: ...</supplied><unclear>φὸ</unclear>ς <space extent="unknown" unit="character"/> ̣ <gap extent="1" reason="lost" unit="character"/><gap extent="1" reason="ill...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.50\p.oxy.50.3579.xml
+Location: 34:128
+Description: ..."15" extentmax="20" reason="lost" unit="character"/><supplied reason="lost"> ̣ </supplied><gap extent="3" reason="illegible" unit="character"/><gap extent...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.50\p.oxy.50.3586.xml
+Location: 34:84
+Description: ...b n="15"/><supplied reason="lost"><space extent="unknown" unit="character"/> ̣ Αὐρήλιος</supplied> Παμούνιος ἐπιδέδωκ<unclear>α</unclear>. </ab></div></bo...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.50\p.oxy.50.3593.xml
+Location: 37:316
+Description: ...on="illegible" unit="character"/> <space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.50\p.oxy.50.3599.xml
+Location: 31:109
+Description: <lb n="13"/>παντὸς <unclear>κι</unclear><supplied reason="lost">νδ</supplied><unclear>ύ</unclear>νου ἐπά̣ναγκες ἀποδώσομεν ἐξ ἀλληλεγγύης
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.51\p.oxy.51.3616.xml
+Location: 16:110
+Description: <lb n="6"/><gap extent="5" reason="lost" unit="character"/>   <space extent="unknown" unit="character"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.51\p.oxy.51.3630.xml
+Location: 55:356
+Description: ...on="illegible" unit="character"/> <space extent="unknown" unit="character"/> ̣] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.54\p.oxy.54.3741.xml
+Location: 111:119
+Description: <lb n="40"/>Ἀ<unclear>π</unclear>ίου παρέδρου <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.54\p.oxy.54.3758.xml
+Location: 460:350
+Description: ...unclear><ex>ίνατο</ex></expan>· [ <space extent="unknown" unit="character"/> ̣ ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3791.xml
+Location: 18:335
+Description: ...>κϛ</num> <supplied reason="lost"><space extent="unknown" unit="character"/> ̣</supplied> <space extent="unknown" unit="character"/> <expan><ex>τάλαντα</e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3804.xml
+Location: 176:50
+Description: <lb n="80"/><expan>π<ex>αρὰ</ex></expan> Ἀκιὰ̣<unclear>ρ</unclear> Ἀνουθίου ἀπὸ τοῦ αὐτοῦ <expan>κτήμα<ex>τος</ex></expan>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3804.xml
+Location: 506:404
+Description: ...</expan> <num value="32">λβ</num> <space extent="unknown" unit="character"/> ̣ <expan>νό<ex>μισμα</ex></expan> <num value="1">α</num> <num value="1/3">γ</...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3820.xml
+Location: 47:85
+Description: ...n="21"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied> <space extent="unknown" unit="character"/> εὔχομαι πολλοῖ<uncle...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3820.xml
+Location: 49:85
+Description: ...n="22"/><supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied> <space extent="unknown" unit="character"/> <supplied reason="lo...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3820.xml
+Location: 52:118
+Description: ...on="illegible" unit="character"/> <space extent="unknown" unit="character"/> ̣ <gap extent="5" reason="lost" unit="character"/><gap extent="1" reason="ill...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.55\p.oxy.55.3821.xml
+Location: 29:32
+Description: <lb n="12"/>ἐρρωμένον σὲ η῾̣ <choice><corr>θεία</corr><sic>θια</sic></choice> πρό<unclear>ν</unclear>οια
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3862.xml
+Location: 7:39
+Description: <lb n="1"/>χμγ <g type="stauros"/>̣ <expan><ex>ἀμὴν</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3862.xml
+Location: 76:58
+Description: <lb n="34" rend="perpendicular"/> <g type="stauros"/>̣ προσαγ <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3870.xml
+Location: 26:35
+Description: <lb n="10"/><g type="chirho"/>̣ <unclear>δεσ</unclear>πότ<unclear>ῃ</unclear> <gap extent="2" reason="illeg...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3872.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3872.xml
+Location: 9:35
+Description: <lb n="2"/><g type="stauros"/>̣ τ<unclear>οῦ</unclear> θεοῦ συμ<unclear>μ</unclear><supplied reason="lost">...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3872.xml
+Location: 28:36
+Description: <lb n="11"/><g type="stauros"/>̣ <unclear>ἰδί</unclear>ῳ <expan>μ<ex>ου</ex></expan> <expan>ἀγ<ex>α</ex>θ<ex...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.56\p.oxy.56.3873.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.58\p.oxy.58.3920.xml
+Location: 30:88
+Description: <lb n="13"/><unclear>χεί</unclear>[του. <space extent="unknown" unit="character"/> ̣] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.58\p.oxy.58.3920.xml
+Location: 32:62
+Description: <lb n="14"/>[ <space extent="unknown" unit="character"/> ̣] <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.58\p.oxy.58.3929.xml
+Location: 52:39
+Description: <lb n="22"/><handShift new="m1"/> ̣ <expan>ἀπογρ<ex>αφὴ</ex></expan> Ἀμοϊτᾶ <expan>μητ<ex>ρὸς</ex></expan> <exp...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.58\p.oxy.58.3936.xml
+Location: 67:58
+Description: <lb n="31"/><handShift new="m2"/> <g type="stauros"/>̣ Γεώρ<unclear>γ</unclear><supplied reason="lost">ι</supplied>ος ἐλέῳ <expan>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.58\p.oxy.58.3945.xml
+Location: 34:59
+Description: <lb n="13"/><handShift new="m1"/> <g type="stauros"/> ̣ <expan>γρ<ex>αμματεῖον</ex></expan> <expan>προχρ<ex>είας</ex></expan> <gap...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.58\p.oxy.58.3951.xml
+Location: 22:57
+Description: <lb n="7"/><handShift new="m1"/> <g type="stauros"/>̣ <expan><unclear>χ</unclear><supplied reason="lost">ε</supplied><unclear>ιρ<...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.59\p.oxy.59.3997.xml
+Location: 77:93
+Description: <lb n="36"/><supplied reason="lost">εὔχομαι. <space extent="unknown" unit="character"/> ̣ </supplied> <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.59\p.oxy.59.3998.xml
+Location: 85:141
+Description: ...ter"/> τῇ θυ<unclear>γα</unclear> <space extent="unknown" unit="character"/> ̣ <gap extent="3" reason="illegible" unit="character"/> </ab></div></div></bo...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.59\p.oxy.59.3999.xml
+Location: 64:141
+Description: ...racter"/> <supplied reason="lost"><space extent="unknown" unit="character"/> ̣ </supplied><choice><corr><supplied reason="lost">Ἡρ</supplied><unclear>α</u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.59\p.oxy.59.3999.xml
+Location: 66:128
+Description: ...acter"/> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied> <expan><unclear>π</unclear><ex>αρὰ</ex></expan> Ἀφοῦτος ἀδελφοῦ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.6\p.oxy.6.918.xml
+Location: 132:374
+Description: ...ιϛ</num> <num value="1/32"><unclear>λβ</unclear></num> <num type="fraction"/>̣ α<gap extent="3" reason="lost" unit="character"/><num value="5"><unclear>ε<...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.60\p.oxy.60.4087.xml
+Location: 174:105
+Description: ...nt="unknown" unit="character"/> [ <space extent="unknown" unit="character"/> ̣ ] <expan>λί<ex>τραι</ex></expan> <expan><ex>μυριάδες</ex></expan> <num valu...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.60\p.oxy.60.4088.xml
+Location: 123:266
+Description: ...son="illegible" unit="character"/> <space extent="unknown" unit="character"/>̣ <gap extent="1" reason="illegible" unit="character"/> <num value="14"><uncl...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.63\p.oxy.63.4372.xml
+Location: 58:76
+Description: <num value="9"><unclear>θ</unclear></num> <orig><g type="s-etous"/></orig>̣ φόρων <expan><ex>ἀρτάβας</ex></expan> <num value="504">φδ</num> <num value=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.65\p.oxy.65.4478.xml
+Location: 40:114
+Description: ...> Διογένης <expan>σεση<ex>μείωμαι</ex></expan>. <expan><ex>ἔτους</ex></expan>̣ ἑ<supplied reason="lost">β</supplied><unclear>δ</unclear>όμου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.66\p.oxy.66.4533.xml
+Location: 10:286
+Description: .../unclear>ν τ<unclear>α</unclear>ύτην, ὃ δ᾽ ἂν ἐπιτελέσω <unclear>κ</unclear>ύ̣ρι<unclear>ον</unclear> ὑ<unclear>πά</unclear>ρχειν. ἐὰν δ᾽ ἐπὶ τῇδε τῇ διαθ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.67\p.oxy.67.4604.xml
+Location: 26:50
+Description: <lb n="11"/>σοι τὴν ἀποχὴν ἐσχηκότες παρὰ σο̣̂ <unclear>τὸ</unclear> <supplied reason="lost">ἀντάποχον </supplied><gap ext...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.68\p.oxy.68.4681.xml
+Location: 37:57
+Description: <lb n="15"/><handShift new="m2"/><g type="stauros"/>̣ <unclear>μίσ</unclear>θ<unclear>ωσι</unclear>ς <unclear>Θ</unclear>αη<suppl...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.68\p.oxy.68.4693.xml
+Location: 7:34
+Description: <lb n="1"/><g type="chirho"/>̣ ὑπατεία<unclear>ς</unclear> <expan>Φ<unclear>λ</unclear><ex>αουΐων</ex></ex...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.68\p.oxy.68.4698.xml
+Location: 9:34
+Description: <lb n="2"/><g type="chirho"/>̣ μετὰ τὴ<supplied reason="lost">ν ὑπατείαν Φ</supplied><unclear>λ</unclear>αουΐου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.7\p.oxy.7.1032.xml
+Location: 120:127
+Description: ...cert="low">ἔτους</ex></expan> <supplied reason="lost"><num value="2">β</num> ̣</supplied> <expan>Φαρμ<ex>οῦθι</ex></expan> <num value="20">κ</num>.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy\p.oxy.8\p.oxy.8.1161.xml
+Location: 35:159
+Description: <lb n="14"/>ἡ <choice><corr>νέα</corr><sic>νεη</sic></choice> αὖ πρὶν <choice><corr>ἐνόσησα</corr><sic>νοσησω</sic></choice> <hi rend="diaeresis">ὑ</hi>πῆ̣-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy.hels\p.oxy.hels.10.xml
+Location: 63:84
+Description: <lb n="29"/>[μὴ εἰδέναι γράμματα   <space extent="unknown" unit="character"/>  ̣          ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy.hels\p.oxy.hels.11.xml
+Location: 20:202
+Description: ...acter"/> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣    </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy.hels\p.oxy.hels.18.xml
+Location: 6:62
+Description: <lb n="1"/>[  <space extent="unknown" unit="character"/> ̣ ] <num value="16">ιϛ</num>   <space extent="unknown" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.oxy.hels\p.oxy.hels.18.xml
+Location: 8:62
+Description: <lb n="2"/>[  <space extent="unknown" unit="character"/> ̣ ] <gap extent="1" reason="illegible" unit="character"/>    <space extent="u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.petr\p.petr.2\p.petr.2.28.xml
+Location: 619:61
+Description: <lb n="31"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.petr\p.petr.2\p.petr.2.30.xml
+Location: 51:100
+Description: <lb n="1"/><note lang="en">desunt<gap extent="12" reason="illegible" unit="character"/></note> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.pommersf\p.pommersf.1.xml
+Location: 383:166
+Description: ...extent="10" reason="lost" unit="character"/><supplied reason="lost"> σῖτον?̣̔̓</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.prag\p.prag.1\p.prag.1.49.xml
+Location: 73:86
+Description: <lb n="34"/>κομπρόμισσον ὡς <expan>πρόκ<ex>ειται</ex></expan> <g type="stauros"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.prag\p.prag.1\p.prag.1.52.xml
+Location: 20:34
+Description: <lb n="2"/><g type="chirho"/>̣ <gap extent="1" reason="illegible" unit="character"/><gap extent="unknown"...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.prag\p.prag.1\p.prag.1.95.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ κελλίον τῆς ἁγίας <expan>Θέκλ<ex>ας</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.prag\p.prag.1\p.prag.1.95.xml
+Location: 8:35
+Description: <lb n="2"/><g type="stauros"/>̣ Συβακὰτ <expan>δι<ex>ακόνῳ</ex></expan>         <num value="1/3">γ</num>  <num value="7">ζ</num> <num value="1/4">δ</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.princ\p.princ.2\p.princ.2.90.xml
+Location: 12:189
+Description: ...>θ<ex>εῷ</ex></expan> <expan>γρ<ex>αμματέως</ex></expan>. <g type="stauros"/>̣ <note lang="en">?</note>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.quseir\p.quseir.3.xml
+Location: 10:175
+Description: ...χαίρειν· <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.rain.cent\p.rain.cent.74.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ryl\p.ryl.2\p.ryl.2.185.xml
+Location: 36:404
+Description: ...ς 4</ex></expan><num value="4"/>, <del rend="erasure"> <handShift new="m1"/> ̣ <num value="11"><unclear>ια</unclear></num> </del> <expan>Μεχ<ex>εὶρ</ex></...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ryl\p.ryl.4\p.ryl.4.627.xml
+Location: 536:139
+Description: .../num> Φαρ<unclear>μ</unclear><supplied reason="lost">οῦθ</supplied>ι καὶ αὐτὴ̣ν <expan><ex>τάλαντον</ex></expan> <num value="1"><unclear>α</unclear></num>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ryl\p.ryl.4\p.ryl.4.668.xml
+Location: 42:41
+Description: <lb n="9/10"/><handShift new="m2"/> ̣ <handShift new="m1"/> ̣ Ἡφαιστί<supplied reason="lost">ω</supplied><unclear...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.ryl\p.ryl.4\p.ryl.4.668.xml
+Location: 42:65
+Description: <lb n="9/10"/><handShift new="m2"/> ̣ <handShift new="m1"/> ̣ Ἡφαιστί<supplied reason="lost">ω</supplied><unclear>νος</unclear> </ab></di...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sarap\p.sarap.52.xml
+Location: 138:81
+Description: ...<lb n="64"/><g type="long-vertical-bar"/> εἰς τὸν <g type="unintelligible"/>̣ <expan>αἶγε<ex>ς</ex></expan> <num value="7">ζ</num> ἔριφ<supplied reason="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sel.warga\p.sel.warga.5.xml
+Location: 44:180
+Description: ...supplied>ιν μηδὲν τὸν <expan>Διονυ<unclear>σάμ</unclear><ex>μωνα</ex></expan>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sorb\p.sorb.2\p.sorb.2.69.xml
+Location: 340:61
+Description: <lb n="50"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sorb\p.sorb.2\p.sorb.2.69.xml
+Location: 379:61
+Description: <lb n="11"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sorb\p.sorb.2\p.sorb.2.69.xml
+Location: 387:100
+Description: <lb n="14"/><note lang="en">desunt<gap extent="3" reason="illegible" unit="character"/></note> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sorb\p.sorb.2\p.sorb.2.69.xml
+Location: 2332:207
+Description: ...pan>λ<ex>αμπροτάτης</ex></expan> [ <space extent="unknown" unit="character"/>̣ ] <expan><ex>ἀρτάβ  </ex></expan> <gap extent="unknown" reason="lost" unit=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sorb\p.sorb.2\p.sorb.2.69.xml
+Location: 3990:59
+Description: <lb n="6"/><gap extent="1" reason="lost" unit="line"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.sorb\p.sorb.2\p.sorb.2.69.xml
+Location: 8359:60
+Description: <lb n="35"/><gap extent="1" reason="lost" unit="line"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.stras\p.stras.5\p.stras.5.313.xml
+Location: 34:59
+Description: <lb n="15"/><expan>ἀπογρα<ex>φὴν</ex></expan> <abbr>ε᾿̣ποι</abbr>ς<gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.stras\p.stras.5\p.stras.5.370.xml
+Location: 24:314
+Description: ...d><unclear>ν</unclear> [ὑπόκειται <space extent="unknown" unit="character"/> ̣ ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.stras\p.stras.5\p.stras.5.488.xml
+Location: 31:60
+Description: <lb n="12"/><space extent="unknown" unit="character"/> ̣ <handShift new="m1"/> δι᾽ ἐμοῦ Γε<unclear>ω</unclear><supplied reason="lost...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.stras\p.stras.7\p.stras.7.657.xml
+Location: 32:143
+Description: ..."stauros"/> ἐπιτραπεὶς ὑπὲρ <expan>αὐτ<ex>ο</ex></expan>ῦ <g type="stauros"/>̣ </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.stras\p.stras.8\p.stras.8.791.xml
+Location: 163:94
+Description: ...<gap extent="unknown" reason="lost" unit="character"/> <num type="fraction"/>̣ <expan>Μεσο<ex>ρὴ</ex></expan> <num value="25">κε</num> <expan>φ<unclear>α<...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt\p.tebt.1\p.tebt.1.96.xml
+Location: 27:180
+Description: ...an> <num value="17">ιζ</num> <num value="1/2">𐅵</num> κ<unclear>α</unclear>ὶ̣ <expan><unclear>σπ</unclear><ex>έρματος</ex></expan> <expan><unclear>δ</unc...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt\p.tebt.3.1\p.tebt.3.1.793.xml
+Location: 389:33
+Description: <lb n="22"/>ἐμοῦ ὄντος ἐν τῆ̣<supplied reason="lost">ι</supplied> <gap extent="4" reason="illegible" unit...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt\p.tebt.3.2\p.tebt.3.2.829.xml
+Location: 16:97
+Description: ...expan>πυ<ex>ροῦ</ex></expan> <num value="540">φμ</num> <num type="fraction"/>̣, ἔ<unclear>τ</unclear>ι πλείω <expan>πυ<ex>ροῦ</ex></expan> <gap extent="un...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt\p.tebt.3.2\p.tebt.3.2.856.xml
+Location: 174:66
+Description: <lb n="69"/><gap extent="1" reason="illegible" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt\p.tebt.3.2\p.tebt.3.2.971.xml
+Location: 15:78
+Description: <lb n="5"/>Πτολεμαΐδι <unclear>τῇ</unclear> ἐπὶ <unclear>τοῦ</unclear> ο῞̣<unclear>ρ</unclear>[μου <note lang="en">?</note><gap extent="unknown" reaso...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt\p.tebt.4\p.tebt.4.1107.xml
+Location: 159:39
+Description: <lb n="98"/><handShift new="m1"/> ̣ <expan>λο<ex>ιπαὶ</ex></expan> <num value="12">ιβ</num> <num value="1/2">𐅵...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.tebt.tait\p.tebt.tait.52.xml
+Location: 26:69
+Description: <lb n="1"/><supplied reason="lost"><note lang="en">m3 ?</note>ξ ̣</supplied>κασ<gap extent="1" reason="illegible" unit="character"/>ι
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.turner\p.turner.19.xml
+Location: 31:231
+Description: ...nclear>ῆ</unclear><supplied reason="lost">ς</supplied> ἐ<unclear>π</unclear>ὶ̣ <unclear>μ</unclear>η<unclear>δὲ</unclear>ν <unclear>τ</unclear><supplied r...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vat.aphrod\p.vat.aphrod.25.xml
+Location: 7:34
+Description: <lb n="1"/><g type="chirho"/>̣ ὑπα<unclear>τ</unclear><supplied reason="lost">είας </supplied><gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.1\p.vind.eirene.1.26.xml
+Location: 39:36
+Description: <lb n="16"/><g type="stauros"/>̣ <expan>Σενούθ<ex>ιος</ex></expan> <expan>νοτ<ex>άριος</ex></expan> <expan>δ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.12.xml
+Location: 60:57
+Description: <lb n="27"/><handShift new="m3"/><g type="stauros"/>̣ δι᾽ ἐμ<unclear>ο</unclear>ῦ Ἐπ<unclear>ι</unclear>φανίου <expan>συμβολαι<ex>ογράφου</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.17.xml
+Location: 9:82
+Description: <lb n="2"/><g type="chirho"/> Ἁθὺρ <num value="1">α</num> <g type="stauros"/>̣ <choice><corr>ἀπεσχό-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.18.xml
+Location: 10:328
+Description: ...χ</abbr> <milestone rend="paragraphos" unit="undefined"/> <g type="stauros"/>̣.</ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.21.xml
+Location: 16:56
+Description: <lb n="6"/><handShift new="m1"/><g type="stauros"/>̣ <gap extent="2" reason="lost" unit="character"/><gap extent="1" reason="ill...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.22.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <gap extent="3" reason="illegible" unit="character"/> <unclear>ἀπὸ</unclear> Ἀ<unclear>φρο</unclear>διτὼ
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.22.xml
+Location: 10:34
+Description: <lb n="3"/><g type="chirho"/>̣ κύρου <expan>Φ<unclear>οιβ</unclear><ex>άμμωνος</ex></expan>.</ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.vind.eirene\p.vind.eirene.2\p.vind.eirene.2.8.xml
+Location: 41:36
+Description: <lb n="16"/><g type="stauros"/>̣ <gap extent="unknown" reason="lost" unit="character"/></ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.wash.univ\p.wash.univ.2\p.wash.univ.2.107.xml
+Location: 29:93
+Description: <lb n="12"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.wisc\p.wisc.1\p.wisc.1.13.xml
+Location: 53:245
+Description: ...Διονυτᾶτος τοῦ Πτολλερῶτος ἀπ<unclear>ὸ</unclear> τῆς <unclear>αὐτ</unclear>ῆ̣<unclear>ς</unclear> <supplied reason="lost">πόλε</supplied>-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\p.wisc\p.wisc.2\p.wisc.2.45.xml
+Location: 20:170
+Description: ...<g type="check"/>  <num value="1">α</num> <num type="fraction"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\pap.agon\pap.agon.5.xml
+Location: 14:179
+Description: ...">είαις ἀνακειμένους. εὐτυχεῖτε.  <space extent="unknown" unit="character"/> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\pap.agon\pap.agon.5.xml
+Location: 18:443
+Description: ...βέλτιον παρεσχημένων. εὐτυχεῖτε.  <space extent="unknown" unit="character"/> ̣  θεοῦ Ἀλεξάνδρου·</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\pap.agon\pap.agon.5.xml
+Location: 22:254
+Description: ...θέται πειθαρχήσουσιν.</supplied>  <space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi\psi.13\psi.13.1320.xml
+Location: 39:57
+Description: <lb n="17"/><handShift new="m3"/> <g type="check"/> ̣ Ταβοῦς <choice><corr>ἡ</corr><sic>της</sic></choice> Παν<supplied reason="l...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi\psi.3\psi.3.258.xml
+Location: 19:79
+Description: <lb n="7"/><gap desc="Demotic" extent="1" reason="ellipsis" unit="line"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi\psi.5\psi.5.447.xml
+Location: 78:72
+Description: <lb n="34"/><supplied reason="lost">τῷ ὅρκῳ. <handShift new="m6"/> ̣ <expan><ex>ἔτους</ex></expan> <num value="7">ζ</num></supplied> αὐ<supplied...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi\psi.7\psi.7.779.xml
+Location: 20:246
+Description: ...e" unit="character"/> <g type="slanting-stroke"/> <g type="slanting-stroke"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi\psi.8\psi.8.931.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <unclear>Ὑπα</unclear>τείας τοῦ δεσπότου ἡμῶν <expan>Φλ<ex>αουίου</ex></expan> Ἰουστίνου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi\psi.8\psi.8.973.xml
+Location: 38:207
+Description: ...ent="unknown" reason="illegible" unit="character"/> <supplied reason="lost"> ̣ </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\psi.congr.xxi\psi.congr.xxi.12.xml
+Location: 105:295
+Description: ...ar>αὐτ</unclear><ex>ὴ</ex></expan> <space extent="unknown" unit="character"/>̣ <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.76.xml
+Location: 757:165
+Description: ...ter"/><gap extent="5" reason="lost" unit="character"/>ς <choice><corr>Θέωνος ̣</corr><sic>θηων</sic></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><s...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.76.xml
+Location: 797:165
+Description: ...ter"/><gap extent="5" reason="lost" unit="character"/>ς <choice><corr>Θέωνος ̣</corr><sic>θηων</sic></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><s...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.76.xml
+Location: 2005:150
+Description: ..."character"/>φερω ἱπ<supplied reason="lost">π</supplied><unclear>ε</unclear>ὺ̣<unclear>ς</unclear> <supplied reason="lost">ἴλη</supplied>ς <unclear>οὐ</un...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.76.xml
+Location: 2032:150
+Description: ..."character"/>φερω ἱπ<supplied reason="lost">π</supplied><unclear>ε</unclear>ὺ̣<unclear>ς</unclear> <supplied reason="lost">ἴλη</supplied>ς <unclear>οὐ</un...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.76.xml
+Location: 2476:165
+Description: ...ter"/><gap extent="5" reason="lost" unit="character"/>ς <choice><corr>Θέωνος ̣</corr><sic>θηων</sic></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><s...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.76.xml
+Location: 3088:151
+Description: ...character"/>φερω ἱπ<supplied reason="lost">π</supplied><unclear>ε</unclear>υ`̣<unclear>ς</unclear> <supplied reason="lost">ἴλη</supplied>ς <unclear>οὐ</un...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 142:88
+Description: <lb n="5"/><gap extent="6" reason="lost" unit="character"/> <expan>ἀπογρ<ex>άφομαι ̣</ex></expan> τὸ ἴδιον <expan>ὄνομ<ex>α</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 154:88
+Description: <lb n="5"/><gap extent="6" reason="lost" unit="character"/> <expan>ἀπογρ<ex>άφομαι ̣</ex></expan> τὸ ἴδιον <expan>ὄνομ<ex>α</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1360:91
+Description: .../>μον ἓν δηναρί<supplied reason="lost">ω</supplied>ν [τριῶν <num value="3"/> ̣ ὀβολῶν ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1360:100
+Description: ...δηναρί<supplied reason="lost">ω</supplied>ν [τριῶν <num value="3"/> ̣ ὀβολῶν ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1362:44
+Description: <lb n="5"/>ἐν Φίλαις. <expan><ex>ἔτους ̣</ex></expan> <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1374:91
+Description: .../>μον ἓν δηναρί<supplied reason="lost">ω</supplied>ν [τριῶν <num value="3"/> ̣ ὀβολῶν ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1374:100
+Description: ...δηναρί<supplied reason="lost">ω</supplied>ν [τριῶν <num value="3"/> ̣ ὀβολῶν ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1376:44
+Description: <lb n="5"/>ἐν Φίλαις. <expan><ex>ἔτους ̣</ex></expan> <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1620:55
+Description: <lb n="1"/>Ἀσκλᾶς Ἀκλᾶ<supplied reason="lost">τος ̣ </supplied><gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 1634:55
+Description: <lb n="1"/>Ἀσκλᾶς Ἀκλᾶ<supplied reason="lost">τος ̣ </supplied><gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2032:73
+Description: <lb n="3"/>παρὰ σοῦ ἀπὸ τιμῆς οἴν[ου δηνάρια <num value="4">δ</num> ̣]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2038:57
+Description: <lb n="6"/><handShift new="m3"/><expan><ex>δηναρίων ̣</ex></expan> <num value="4">δ</num>.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2046:73
+Description: <lb n="3"/>παρὰ σοῦ ἀπὸ τιμῆς οἴν[ου δηνάρια <num value="4">δ</num> ̣]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2052:57
+Description: <lb n="6"/><handShift new="m3"/><expan><ex>δηναρίων ̣</ex></expan> <num value="4">δ</num>.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2384:88
+Description: <lb n="5"/><gap extent="6" reason="lost" unit="character"/> <expan>ἀπογρ<ex>άφομαι ̣</ex></expan> τὸ ἴδιον <expan>ὄνομ<ex>α</ex></expan>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2992:91
+Description: .../>μον ἓν δηναρί<supplied reason="lost">ω</supplied>ν [τριῶν <num value="3"/> ̣ ὀβολῶν ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2992:100
+Description: ...δηναρί<supplied reason="lost">ω</supplied>ν [τριῶν <num value="3"/> ̣ ὀβολῶν ̣ <gap extent="unknown" reason="illegible" unit="character"/> ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 2994:44
+Description: <lb n="5"/>ἐν Φίλαις. <expan><ex>ἔτους ̣</ex></expan> <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 3119:55
+Description: <lb n="1"/>Ἀσκλᾶς Ἀκλᾶ<supplied reason="lost">τος ̣ </supplied><gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 3327:73
+Description: <lb n="3"/>παρὰ σοῦ ἀπὸ τιμῆς οἴν[ου δηνάρια <num value="4">δ</num> ̣]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\rom.mil.rec\rom.mil.rec.1\rom.mil.rec.1.78.xml
+Location: 3333:57
+Description: <lb n="6"/><handShift new="m3"/><expan><ex>δηναρίων ̣</ex></expan> <num value="4">δ</num>.
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.14\sb.14.11337.xml
+Location: 24:274
+Description: ...><ex>ἐτῶν</ex></expan> <space extent="unknown" unit="character"/> <expan><ex>̣</ex></expan> καὶ </supplied><gap extent="unknown" reason="lost" unit="chara...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.14\sb.14.11864.xml
+Location: 12:78
+Description: <lb n="3"/>Παῦνι <num value="6">ϛ</num> εἰς <expan>ἀ<unclear>ρ</unclear>ί̣<unclear>θ</unclear><ex>μησιν</ex></expan> Παχών. <expan><supplied reason="l...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.14\sb.14.11893.xml
+Location: 36:112
+Description: <lb n="16"/><gap extent="12" reason="lost" unit="character"/> <unclear>πε</unclear>ρὶ <unclear>τ</unclear>ὴ̣<unclear>ν</unclear> πρότερον
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.14\sb.14.12057.xml
+Location: 12:254
+Description: ...>ι<supplied reason="lost">γ</supplied></num> <orig><g type="s-etous"/></orig>̣ <supplied reason="lost">  <num value="4">δ</num></supplied> <orig><g type="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.14\sb.14.12215.xml
+Location: 6:34
+Description: <lb n="1"/><g type="chirho"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12240.xml
+Location: 22:95
+Description: ...τὰ μῆ<unclear>ν</unclear>α <unclear>ἕ</unclear>καστον τὴν ὑπάρχουσαν αὐτῷ οι᾿̣[κίαν <gap extent="unknown" reason="illegible" unit="character"/> ἐν τοῖς ἀπ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12377.xml
+Location: 36:34
+Description: <lb n="16"/><g type="check"/>̣ <expan>ἐποίκ<ex>ιον</ex></expan> Χρυσαρκύρου  <expan>ὄν<ex>ος</ex></expan> <num value="1">α</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12497.xml
+Location: 62:44
+Description: <lb n="26"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Δίδ</unclear>υμος ὁ καὶ Δη<unclear>μή...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12497.xml
+Location: 62:73
+Description: <lb n="26"/><g type="slanting-stroke"/>̣ <g type="slanting-stroke"/>̣ <unclear>Δίδ</unclear>υμος ὁ καὶ Δη<unclear>μή</unclear>τριος Ἑρμίου τοῦ Πτ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12515.xml
+Location: 129:525
+Description: ...ype="unintelligible"/> <expan><ex>ὀβολοὶ</ex></expan> <num value="6">ϛ</num> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12583.xml
+Location: 69:36
+Description: <lb n="31"/><g type="stauros"/>̣ <expan><unclear>μίσθ</unclear><ex>ωσις</ex></expan> <unclear>Ἄπα</unclear>...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12764.xml
+Location: 137:385
+Description: ...><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣</add>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12828.xml
+Location: 9:187
+Description: ...<gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.12828.xml
+Location: 41:405
+Description: ...<gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.13035.xml
+Location: 69:106
+Description: ...τους</ex></expan> [<num value="35">λε</num>] <orig><g type="s-etous"/></orig>̣ <num value="17">ιζ</num> <orig><g type="s-etous"/></orig> <num value="8"><u...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.13035.xml
+Location: 121:181
+Description: ...<num value="17"><unclear>ιζ</unclear></num> <orig><g type="s-etous"/></orig>̣ <num value="8"><unclear>η</unclear></num> <orig><g type="s-etous"/></orig>̣...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.13035.xml
+Location: 121:257
+Description: ...>̣ <num value="8"><unclear>η</unclear></num> <orig><g type="s-etous"/></orig>̣ Ἐπεὶφ <expan>δι<ex>ὰ</ex></expan> λόγων Χωοῦτος <gap extent="2" reason="ill...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.13037.xml
+Location: 59:35
+Description: <lb n="27"/><g type="chirho"/>̣ <expan><unclear>Α</unclear><supplied reason="lost">ὐ</supplied>ρ<ex>ήλιος</...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.16\sb.16.13049.xml
+Location: 23:108
+Description: ...known" reason="lost" unit="character"/>του Ἀφροδεισίου <unclear>κα</unclear>ὶ̣ <unclear>γὰ</unclear>ρ ἀπὸ Κανωπ<unclear>ι</unclear><supplied reason="lost"...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.18\sb.18.13654.xml
+Location: 13:59
+Description: <lb n="4"/><space extent="unknown" unit="character"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.18\sb.18.13837.xml
+Location: 27:151
+Description: ...<gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣ <supplied reason="lost"> <space extent="unknown" unit="character"/> </suppl...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.18\sb.18.13837.xml
+Location: 30:93
+Description: <lb n="12"/><gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/> ̣ Δημητρίωι. </ab></div></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.18\sb.18.13883.xml
+Location: 33:61
+Description: <lb n="13"/><gap extent="1" reason="lost" unit="line"/> ̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.18\sb.18.13951.xml
+Location: 49:56
+Description: <lb n="2"/><handShift new="m3"/> <g type="chirho"/>̣ <expan>ἐγγ<ex>ύη</ex></expan> Σαμβᾶ <expan><ex>καὶ</ex></expan> Πελλῆ  <hi...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.18\sb.18.14027.xml
+Location: 9:176
+Description: ...> <gap desc="vestiges" extent="unknown" reason="illegible" unit="character"/>̣ καὶ <abbr>Σενπ<unclear>α</unclear><gap extent="2" reason="illegible" unit="...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14076.xml
+Location: 7:372
+Description: ...</expan> <supplied reason="omitted">κεράτια</supplied> <num value="5">ε</num>̣<gap extent="1" reason="illegible" unit="character"/><gap extent="unknown" r...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14112.xml
+Location: 8:218
+Description: ...="1/8">η</num> <num value="1/16">ιϛ</num> <num value="1/6">ϛ</num>0 $φραξ170;̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14119.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ <unclear>ἐδ</unclear>εξάμην τὰ γράμματα τῆς σῆς εὐδοκιμήσεως καὶ θέλω αὐτὴν
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14124.xml
+Location: 8:35
+Description: <lb n="2"/><g type="stauros"/>̣ <unclear>ἀριθ</unclear>μηθέντα εἰς τὸν λόγον
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14218.xml
+Location: 11:373
+Description: ...lear>α<unclear>να</unclear>γιοτατοι</sic></choice> πάτερ. <g type="stauros"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14282.xml
+Location: 75:138
+Description: ...="alternative"><lem><unclear>Τ</unclear>εκ<unclear>ο</unclear>σε</lem><rdg>Ι¨̣εκ<unclear>ο</unclear>σε</rdg></app> <expan><ex>κεράτιον</ex></expan> <num v...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14282.xml
+Location: 259:265
+Description: ...reason="lost" unit="character"/><num value="1/2"><unclear>𐅵</unclear></num>̣</del>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14526.xml
+Location: 66:274
+Description: ...xpan>σπερμάτω<ex>ν</ex></expan> <unclear>τῶν</unclear> <unclear>ἀ</unclear>π᾽̣ <expan><unclear>ἀνη</unclear><ex>λώσεως</ex></expan> <del rend="erasure"><e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14539.xml
+Location: 14:33
+Description: <lb n="4"/><g type="check"/>̣ <g type="check"/>̣ <num value="13"><unclear>ι</unclear>γ</num> Ψενφθοῦς <ex...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14539.xml
+Location: 14:52
+Description: <lb n="4"/><g type="check"/>̣ <g type="check"/>̣ <num value="13"><unclear>ι</unclear>γ</num> Ψενφθοῦς <expan>πρ<ex>εσβύτερος...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14544.xml
+Location: 6:89
+Description: <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/><g type="stauros"/>̣<gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14564.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <gap extent="2" reason="illegible" unit="character"/> Φαρμοῦθι <num value="14">ιδ</num>,
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14587.xml
+Location: 42:55
+Description: <lb n="19"/><supplied reason="lost">κ</supplied>α᾽̣μοὶ ἐπιρρω<unclear>σθ</unclear>ῆναι <gap extent="1" reason="illegible" unit=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.14592.xml
+Location: 34:55
+Description: <lb n="15"/><supplied reason="lost">ἀ</supplied>π᾽̣ ἀλλήλων <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15027.xml
+Location: 6:35
+Description: <lb n="1"/><g type="stauros"/>̣ <unclear>μετ</unclear>ὰ τὴν ὑπατείαν τοῦ δεσπότου ἡμῶν Φλαυίου Νέου Λέοντο<...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 44:67
+Description: <lb n="19"/>Διοσ<unclear>κό</unclear>ρου <g type="slashed-N"/>̣ <num value="3"><unclear>γ</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 46:66
+Description: <lb n="20"/>Τιτκώ<unclear>ε</unclear>ως <g type="slashed-N"/>̣ <num value="3"><unclear>γ</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 48:50
+Description: <lb n="21"/>Πασινούφεως <g type="slashed-N"/>̣ <num value="1"><unclear>α</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 50:75
+Description: <lb n="22"/>Ἴσσου <expan>ὁμ<ex>οίως</ex></expan> <g type="slashed-N"/>̣ <num value="1">α</num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 131:50
+Description: <lb n="62"/>Πασινούφεως <g type="slashed-N"/>̣ <num value="1"><unclear>α</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 141:65
+Description: <lb n="67"/><handShift new="m3"/>Ἴσσου <g type="slashed-N"/>̣ <gap extent="unknown" reason="lost" unit="character"/>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 147:84
+Description: <lb n="70"/><g type="check"/> Μι<unclear>χ</unclear>ώλεως <g type="slashed-N"/>̣ <num value="30"><unclear>λ</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 192:62
+Description: <lb n="92"/><g type="check"/> Ἴσσου <g type="slashed-N"/>̣ <num value="1"><unclear>α</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15064.xml
+Location: 194:96
+Description: <lb n="93"/><choice><corr>Μαγδώλων</corr><sic>μιγδωλων</sic></choice> <g type="slashed-N"/>̣ <num value="6"><unclear>ϛ</unclear></num>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15075.xml
+Location: 8:35
+Description: <lb n="1"/><g type="stauros"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.20\sb.20.15099.xml
+Location: 336:244
+Description: ...ια</ex></expan> <num value="4">δ</num> <expan><ex>ὑπὲρ</ex></expan> <expan>τό̣<unclear>π</unclear><ex>ου</ex></expan> <unclear>Π</unclear>κ<unclear>α</unc...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.22\sb.22.15245.xml
+Location: 15:125
+Description: ...ρ<ex>υσοῦ</ex></expan> <expan>νο<ex>μισματίου</ex></expan> <expan><ex> ξερτ̂"̣"&gt;ἥμισυ</ex></expan> <num value=" 1/2 "/> <expan>π<ex>αρὰ</ex></expan> <e...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.22\sb.22.15545.xml
+Location: 26:146
+Description: ...="10" reason="lost" unit="character"/><supplied reason="lost"> ἀ</supplied>φ᾽̣ οὗ χρόνου ἔχει ὁ Ἀγλαὸς ἐν δωρεᾶι τὴν κώμην μέχρι τοῦ <num value="30">λ</nu...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.22\sb.22.15706.xml
+Location: 8:35
+Description: <lb n="1"/><g type="stauros"/>̣ <choice><corr>μόδιοι ἀρτάβαι δοχικῷ</corr><sic><unclear>μ</unclear>οδια αρτ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.22\sb.22.15706.xml
+Location: 53:36
+Description: <lb n="1"/> <g type="stauros"/>̣ <unclear>κ</unclear><gap extent="3" reason="lost" unit="character"/> <uncle...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.22\sb.22.15708.xml
+Location: 138:90
+Description: ...5"/><gap extent="30" reason="lost" unit="character"/><supplied reason="lost">̣ ἀρ</supplied><unclear>χιερ</unclear>εῖ Νείλου.</ab></div></div></body></tex...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.22\sb.22.15751.xml
+Location: 12:352
+Description: ...clear> <unclear>πέν</unclear>τε μόν<unclear>ους</unclear> <g type="stauros"/>̣.</ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16025.xml
+Location: 14:68
+Description: <lb n="5"/><expan>στοιχ<ex>εῖ</ex></expan>. <g type="stauros"/>̣ <expan>γί<ex>νεται</ex></expan> <expan>χρ<ex>υσοῦ</ex></expan> <supplied re...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16027.xml
+Location: 18:239
+Description: ...pe="stauros"/> Τριβοῦνος <expan>στοιχ<ex>εῖ</ex></expan>. <g type="stauros"/>̣</ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16175.xml
+Location: 37:78
+Description: <lb n="16"/>Τεβέτνοι <sic>Τεβέτ<unclear>ν</unclear>[οι</sic> γαπ εχτεντ̂"̣"&gt; ]
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16192.xml
+Location: 25:135
+Description: ..."character"/> <figure><figDesc>draςing</figDesc></figure> <g type="stauros"/>̣ Μηνᾶς υἱὸς Ἀβρα<unclear>μ</unclear>ίου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16192.xml
+Location: 33:145
+Description: ..."/><gap extent="18" reason="illegible" unit="character"/> <g type="stauros"/>̣ Ἰωάννης <unclear>υ</unclear>ἱὸς
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16208.xml
+Location: 13:33
+Description: <lb n="4"/><g type="check"/>̣ <expan>π<ex>αρὰ</ex></expan> <expan>Καλλινί<unclear>κ</unclear><ex>ου</ex><...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16218.xml
+Location: 38:132
+Description: ...pan><ex>καὶ</ex></expan> <expan>ἡγουμέ<ex>νῳ</ex></expan> <g type="stauros"/>̣ Ἄπα Κῦρος <expan>υἱό<ex>ς</ex></expan>. <g type="stauros"/></ab></div></div...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16222.xml
+Location: 32:36
+Description: <lb n="13"/><g type="stauros"/>̣ Ἰδίῳ ἐμῷ <expan><supplied reason="lost">ἀ</supplied>γαθ<ex>ῷ</ex></expan> <...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16229.xml
+Location: 122:34
+Description: <lb n="58"/><g type="check"/>̣ Ἰλῶς <supplied reason="lost">Ὥ</supplied>ρου
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.24\sb.24.16229.xml
+Location: 197:76
+Description: <lb n="95"/><unclear>πετ</unclear><supplied reason="lost"> γαπ εχτεντ̂"̣"&gt; </supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.3\sb.3.7267.xml
+Location: 27:139
+Description: ...unclear> <supplied reason="lost"> <space extent="unknown" unit="character"/> ̣ </supplied> ε<gap extent="1" reason="illegible" unit="character"/>βε<gap ex...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.4\sb.4.7331.xml
+Location: 26:38
+Description: <lb n="11"/><unclear>τ</unclear>ὶ̣ αὐτοῦ εἰς τὴν <choice><corr>χρείαν</corr><sic>χριαν</sic></choice> Ἀπόλ-
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.4\sb.4.7367.xml
+Location: 46:39
+Description: <lb n="21"/><unclear>σα</unclear>ί̣ <unclear>μ</unclear><supplied reason="lost">ου, ἃ π</supplied>ρὸς αὐτὴν ἐτύ...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\sb\sb.5\sb.5.8029.xml
+Location: 40:195
+Description: ...clear>αὶ</unclear> παρὰ τῶν γεωρ<supplied reason="lost">γῶν</supplied> καὶ α᾿̣<unclear>μ</unclear>πελουργῶν <supplied reason="lost">αὐτοῦ</supplied>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\stud.pal\stud.pal.1\stud.pal.1.III.xml
+Location: 46:113
+Description: <lb n="4"/>τῇ Δη<supplied reason="lost">μητρίᾳ</supplied>         <space extent="unknown" unit="character"/>̣
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\stud.pal\stud.pal.3\stud.pal.3.406.xml
+Location: 20:65
+Description: <lb n="8"/><gap extent="1" reason="illegible" unit="line"/> ̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\stud.pal\stud.pal.3\stud.pal.3.439.xml
+Location: 12:378
+Description: ...lang="en">?</note></add> <hi rend="subscript"><g type="tachygraphic marks"/>̣</hi> <expan>νομικ<ex>οῦ</ex></expan> </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\stud.pal\stud.pal.8\stud.pal.8.1338.xml
+Location: 18:111
+Description: <lb n="6"/><gap extent="unknown" reason="lost" unit="character"/><supplied reason="lost">50 </supplied>βο.̣ </ab></div></body></text></TEI.2>
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\stud.pal\stud.pal.8\stud.pal.8.769.xml
+Location: 22:381
+Description: ..." extent="unknown" reason="illegible" unit="character"/></del></del></subst> ̣ <gap extent="unknown" reason="lost" unit="character"/> </ab></div></body></...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\t.mom.louvre\t.mom.louvre.1016.xml
+Location: 9:40
+Description: <lb n="2"/>μη<unclear>τρ</unclear>ὸ̣<unclear>ς</unclear> <unclear>Σενπετε</unclear> <gap desc="vestiges" extent=...
+
+SystemID: C:\Documents and Settings\Gaby Bodard\Desktop\epiduke\atlantides\ddb-epidoc\t.varie\t.varie.10.xml
+Location: 7:35
+Description: <lb n="1"/><g type="stauros"/>̣ ἐν ὀνόματι τοῦ κυρίου καὶ <expan>δεσπό<ex>του</ex></expan> Ἰησ<supplied rea...
